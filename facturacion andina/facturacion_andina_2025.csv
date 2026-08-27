@@ -1,0 +1,776 @@
+factura_id,fecha_emision,fecha_vencimiento,fecha_pago,cliente_id,cliente,sector,ciudad,vendedor,dias_credito,valor_factura,estado
+F2025-0001,2025-01-03,2025-02-02,2025-02-01,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,20000000,pagada
+F2025-0002,2025-01-10,2025-02-09,2025-02-09,C018,Ingeniería y Concreto,Construcción,Cali,D. Torres,30,32400000,pagada
+F2025-0003,2025-01-28,2025-03-14,2025-03-08,C007,Servicios Logísticos Andinos,Servicios,Medellín,L. Vargas,45,3900000,pagada
+F2025-0004,2025-01-24,2025-02-23,2025-03-03,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,14900000,pagada
+F2025-0005,2025-01-04,2025-02-03,2025-02-10,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,15000000,pagada
+F2025-0006,2025-01-12,2025-02-11,2025-02-08,C029,Autopartes La 30,Retail,Barranquilla,D. Torres,30,10400000,pagada
+F2025-0007,2025-01-10,2025-02-24,2025-02-16,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,7200000,pagada
+F2025-0008,2025-01-20,2025-03-06,2025-04-13,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,17800000,pagada
+F2025-0009,2025-01-27,2025-03-13,2025-03-20,C031,Seguridad Total Ltda,Servicios,Bogotá,A. Rojas,45,7900000,pagada
+F2025-0010,2025-01-05,2025-02-04,2025-02-05,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,11600000,pagada
+F2025-0011,2025-01-18,2025-02-17,2025-02-08,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,11500000,pagada
+F2025-0012,2025-01-10,2025-02-09,2025-02-03,C033,Granos del Tolima,Agroindustria,Cali,L. Vargas,30,12000000,pagada
+F2025-0013,2025-01-13,2025-02-12,2025-02-11,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,25100000,pagada
+F2025-0014,2025-01-08,2025-02-07,2025-02-07,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,5600000,pagada
+F2025-0015,2025-01-03,2025-02-02,2025-03-22,C036,Construred,Construcción,Bogotá,A. Rojas,30,18900000,pagada
+F2025-0016,2025-01-20,2025-03-21,2025-03-25,C012,Comercial Santa Fe,Retail,Medellín,C. Peña,60,10300000,pagada
+F2025-0017,2025-01-16,2025-02-15,2025-02-17,C010,Café y Cosecha,Agroindustria,Bucaramanga,A. Rojas,30,5200000,pagada
+F2025-0018,2025-01-14,2025-02-13,2025-02-15,C028,Papelería Nacional,Retail,Cali,J. Mora,30,9400000,pagada
+F2025-0019,2025-01-04,2025-02-03,2025-01-27,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,12600000,pagada
+F2025-0020,2025-01-22,2025-03-23,2025-04-06,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,15500000,pagada
+F2025-0021,2025-01-06,2025-02-05,2025-02-20,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,16400000,pagada
+F2025-0022,2025-01-05,2025-02-19,2025-02-13,C008,Supermercados La Economía,Retail,Cali,D. Torres,45,6400000,pagada
+F2025-0023,2025-01-28,2025-02-27,2025-03-06,C033,Granos del Tolima,Agroindustria,Cali,D. Torres,30,5400000,pagada
+F2025-0024,2025-01-09,2025-02-23,2025-02-16,C001,Almacenes El Dorado,Retail,Bogotá,A. Rojas,45,4400000,pagada
+F2025-0025,2025-01-14,2025-03-15,2025-04-03,C032,Acabados y Pinturas,Construcción,Medellín,J. Mora,60,32100000,pagada
+F2025-0026,2025-01-19,2025-03-20,2025-03-14,C032,Acabados y Pinturas,Construcción,Medellín,D. Torres,60,26500000,pagada
+F2025-0027,2025-01-16,2025-03-17,2025-03-12,C032,Acabados y Pinturas,Construcción,Medellín,D. Torres,60,24800000,pagada
+F2025-0028,2025-01-16,2025-02-15,2025-03-23,C027,Constructora Horizonte,Construcción,Medellín,D. Torres,30,16700000,pagada
+F2025-0029,2025-01-11,2025-03-12,2025-04-17,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,15000000,pagada
+F2025-0030,2025-01-09,2025-02-08,2025-02-06,C029,Autopartes La 30,Retail,Barranquilla,D. Torres,30,4000000,pagada
+F2025-0031,2025-01-04,2025-03-05,2025-03-22,C012,Comercial Santa Fe,Retail,Medellín,C. Peña,60,9600000,pagada
+F2025-0032,2025-01-27,2025-03-28,2025-03-26,C032,Acabados y Pinturas,Construcción,Medellín,J. Mora,60,34200000,pagada
+F2025-0033,2025-01-28,2025-03-29,2025-03-25,C023,Electrodomésticos La Rebaja,Retail,Cali,C. Peña,60,5500000,pagada
+F2025-0034,2025-01-16,2025-03-17,2025-05-04,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,9700000,pagada
+F2025-0035,2025-01-27,2025-03-13,2025-03-18,C021,Consultores Empresariales BGA,Servicios,Bogotá,C. Peña,45,9900000,pagada
+F2025-0036,2025-01-18,2025-03-19,2025-03-16,C023,Electrodomésticos La Rebaja,Retail,Cali,D. Torres,60,8300000,pagada
+F2025-0037,2025-01-06,2025-02-05,2025-02-28,C002,Constructora Monserrate,Construcción,Medellín,A. Rojas,30,17900000,pagada
+F2025-0038,2025-01-28,2025-03-29,2025-04-14,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,15100000,pagada
+F2025-0039,2025-01-24,2025-02-23,2025-02-27,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,9500000,pagada
+F2025-0040,2025-01-14,2025-02-13,2025-02-12,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,C. Peña,30,11000000,pagada
+F2025-0041,2025-01-12,2025-02-11,2025-02-26,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,26700000,pagada
+F2025-0042,2025-01-11,2025-02-10,2025-03-03,C027,Constructora Horizonte,Construcción,Medellín,C. Peña,30,12700000,pagada
+F2025-0043,2025-01-01,2025-01-31,2025-03-07,C027,Constructora Horizonte,Construcción,Medellín,A. Rojas,30,47800000,pagada
+F2025-0044,2025-01-21,2025-03-22,2025-04-15,C019,Plásticos del Pacífico,Manufactura,Barranquilla,A. Rojas,60,27000000,pagada
+F2025-0045,2025-01-08,2025-02-07,2025-02-06,C035,Tecnología Andina,Retail,Bucaramanga,C. Peña,30,11400000,pagada
+F2025-0046,2025-01-14,2025-03-15,2025-03-20,C023,Electrodomésticos La Rebaja,Retail,Cali,D. Torres,60,7900000,pagada
+F2025-0047,2025-01-05,2025-02-19,2025-02-26,C004,Ferretería La 80,Retail,Barranquilla,C. Peña,45,8900000,pagada
+F2025-0048,2025-01-28,2025-03-14,2025-03-09,C031,Seguridad Total Ltda,Servicios,Bogotá,A. Rojas,45,6400000,pagada
+F2025-0049,2025-01-22,2025-03-23,2025-03-22,C023,Electrodomésticos La Rebaja,Retail,Cali,D. Torres,60,5700000,pagada
+F2025-0050,2025-01-01,2025-01-31,2025-02-02,C026,Calzado Bucaramanga,Manufactura,Bogotá,J. Mora,30,7700000,pagada
+F2025-0051,2025-01-13,2025-03-14,2025-03-12,C023,Electrodomésticos La Rebaja,Retail,Cali,A. Rojas,60,10600000,pagada
+F2025-0052,2025-01-28,2025-03-29,2025-04-04,C023,Electrodomésticos La Rebaja,Retail,Cali,C. Peña,60,13300000,pagada
+F2025-0053,2025-02-19,2025-04-05,2025-04-25,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,10000000,pagada
+F2025-0054,2025-02-07,2025-03-09,2025-03-02,C039,Eventos y Banquetes Real,Servicios,Barranquilla,L. Vargas,30,3600000,pagada
+F2025-0055,2025-02-23,2025-04-09,2025-04-01,C021,Consultores Empresariales BGA,Servicios,Bogotá,D. Torres,45,24000000,pagada
+F2025-0056,2025-02-17,2025-04-18,2025-05-05,C012,Comercial Santa Fe,Retail,Medellín,C. Peña,60,9900000,pagada
+F2025-0057,2025-02-09,2025-03-11,2025-03-19,C039,Eventos y Banquetes Real,Servicios,Barranquilla,D. Torres,30,5800000,pagada
+F2025-0058,2025-02-05,2025-03-07,2025-03-07,C037,Alimentos La Espiga,Manufactura,Medellín,D. Torres,30,11800000,pagada
+F2025-0059,2025-02-04,2025-03-21,2025-03-21,C020,Droguería Vital,Servicios,Bucaramanga,A. Rojas,45,5800000,pagada
+F2025-0060,2025-02-05,2025-03-22,2025-03-28,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,6600000,pagada
+F2025-0061,2025-02-20,2025-04-21,2025-04-26,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,L. Vargas,60,15000000,pagada
+F2025-0062,2025-02-15,2025-04-16,2025-04-12,C023,Electrodomésticos La Rebaja,Retail,Cali,D. Torres,60,8500000,pagada
+F2025-0063,2025-02-02,2025-04-03,2025-04-23,C006,Textiles Antioquia,Manufactura,Bogotá,J. Mora,60,13400000,pagada
+F2025-0064,2025-02-16,2025-03-18,2025-03-14,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,16700000,pagada
+F2025-0065,2025-02-11,2025-03-13,2025-03-05,C034,Muebles Modernos,Manufactura,Barranquilla,A. Rojas,30,15700000,pagada
+F2025-0066,2025-02-24,2025-03-26,2025-04-01,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,11300000,pagada
+F2025-0067,2025-02-03,2025-03-05,2025-03-11,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,12900000,pagada
+F2025-0068,2025-02-28,2025-04-29,2025-05-03,C006,Textiles Antioquia,Manufactura,Bogotá,J. Mora,60,11300000,pagada
+F2025-0069,2025-02-18,2025-04-04,2025-04-05,C030,Lácteos San Fernando,Manufactura,Bucaramanga,L. Vargas,45,12300000,pagada
+F2025-0070,2025-02-16,2025-04-02,2025-04-17,C017,Modas Capital,Retail,Medellín,L. Vargas,45,9100000,pagada
+F2025-0071,2025-02-13,2025-03-30,2025-04-02,C001,Almacenes El Dorado,Retail,Bogotá,C. Peña,45,7600000,pagada
+F2025-0072,2025-02-08,2025-03-10,2025-02-28,C039,Eventos y Banquetes Real,Servicios,Barranquilla,A. Rojas,30,5500000,pagada
+F2025-0073,2025-02-12,2025-03-29,2025-03-19,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,14100000,pagada
+F2025-0074,2025-02-11,2025-04-12,2025-04-13,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,12100000,pagada
+F2025-0075,2025-02-20,2025-04-06,2025-04-19,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,7300000,pagada
+F2025-0076,2025-02-26,2025-03-28,2025-04-09,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,30500000,pagada
+F2025-0077,2025-02-15,2025-04-01,2025-04-06,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,30700000,pagada
+F2025-0078,2025-02-23,2025-03-25,2025-03-27,C033,Granos del Tolima,Agroindustria,Cali,A. Rojas,30,8800000,pagada
+F2025-0079,2025-02-09,2025-03-11,2025-03-03,C018,Ingeniería y Concreto,Construcción,Cali,D. Torres,30,34300000,pagada
+F2025-0080,2025-02-20,2025-04-21,2025-06-12,C019,Plásticos del Pacífico,Manufactura,Barranquilla,J. Mora,60,12800000,pagada
+F2025-0081,2025-02-03,2025-03-05,2025-03-13,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,31800000,pagada
+F2025-0082,2025-02-27,2025-04-28,2025-04-20,C032,Acabados y Pinturas,Construcción,Medellín,A. Rojas,60,21300000,pagada
+F2025-0083,2025-02-23,2025-03-25,2025-04-01,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,27600000,pagada
+F2025-0084,2025-02-23,2025-04-09,2025-04-11,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,5400000,pagada
+F2025-0085,2025-02-17,2025-03-19,2025-04-29,C027,Constructora Horizonte,Construcción,Medellín,A. Rojas,30,16300000,pagada
+F2025-0086,2025-02-16,2025-03-18,2025-03-08,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,13200000,pagada
+F2025-0087,2025-02-15,2025-04-16,2025-04-21,C012,Comercial Santa Fe,Retail,Medellín,D. Torres,60,8800000,pagada
+F2025-0088,2025-02-14,2025-03-16,2025-03-13,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,5500000,pagada
+F2025-0089,2025-02-04,2025-03-06,2025-03-21,C011,Metalmecánica Bolívar,Manufactura,Bogotá,D. Torres,30,6900000,pagada
+F2025-0090,2025-02-19,2025-04-20,2025-04-17,C032,Acabados y Pinturas,Construcción,Medellín,C. Peña,60,32200000,pagada
+F2025-0091,2025-02-19,2025-04-20,2025-05-30,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,22600000,pagada
+F2025-0092,2025-02-22,2025-03-24,2025-03-19,C010,Café y Cosecha,Agroindustria,Bucaramanga,D. Torres,30,11300000,pagada
+F2025-0093,2025-02-09,2025-04-10,2025-04-15,C014,Panificadora Central,Manufactura,Barranquilla,A. Rojas,60,13100000,pagada
+F2025-0094,2025-02-27,2025-03-29,2025-03-29,C022,Maderas del Quindío,Manufactura,Medellín,A. Rojas,30,8700000,pagada
+F2025-0095,2025-02-21,2025-04-07,2025-04-02,C031,Seguridad Total Ltda,Servicios,Bogotá,C. Peña,45,4700000,pagada
+F2025-0096,2025-02-22,2025-04-08,2025-04-10,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,J. Mora,45,14600000,pagada
+F2025-0097,2025-02-28,2025-03-30,2025-04-08,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,20600000,pagada
+F2025-0098,2025-02-04,2025-03-06,2025-03-06,C035,Tecnología Andina,Retail,Bucaramanga,A. Rojas,30,24200000,pagada
+F2025-0099,2025-02-04,2025-03-21,2025-03-19,C031,Seguridad Total Ltda,Servicios,Bogotá,D. Torres,45,13400000,pagada
+F2025-0100,2025-02-01,2025-03-18,2025-03-08,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,D. Torres,45,18000000,pagada
+F2025-0101,2025-02-09,2025-04-10,2025-04-05,C012,Comercial Santa Fe,Retail,Medellín,A. Rojas,60,4100000,pagada
+F2025-0102,2025-02-09,2025-03-26,2025-03-30,C017,Modas Capital,Retail,Medellín,D. Torres,45,10800000,pagada
+F2025-0103,2025-02-04,2025-03-06,2025-03-08,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,3500000,pagada
+F2025-0104,2025-02-08,2025-03-10,2025-03-18,C015,Transportes El Rápido,Servicios,Bucaramanga,J. Mora,30,8000000,pagada
+F2025-0105,2025-02-28,2025-03-30,2025-04-02,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,10400000,pagada
+F2025-0106,2025-02-03,2025-03-05,2025-03-11,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,24400000,pagada
+F2025-0107,2025-02-07,2025-03-09,2025-03-12,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,9200000,pagada
+F2025-0108,2025-03-18,2025-05-02,2025-05-02,C008,Supermercados La Economía,Retail,Cali,D. Torres,45,10500000,pagada
+F2025-0109,2025-03-20,2025-05-04,2025-05-01,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,12900000,pagada
+F2025-0110,2025-03-06,2025-04-05,2025-04-02,C037,Alimentos La Espiga,Manufactura,Medellín,D. Torres,30,8700000,pagada
+F2025-0111,2025-03-22,2025-05-21,2025-05-25,C012,Comercial Santa Fe,Retail,Medellín,D. Torres,60,7800000,pagada
+F2025-0112,2025-03-05,2025-04-04,2025-05-07,C027,Constructora Horizonte,Construcción,Medellín,D. Torres,30,39900000,pagada
+F2025-0113,2025-03-17,2025-04-16,2025-04-16,C037,Alimentos La Espiga,Manufactura,Medellín,D. Torres,30,22600000,pagada
+F2025-0114,2025-03-27,2025-04-26,2025-06-01,C002,Constructora Monserrate,Construcción,Medellín,J. Mora,30,26100000,pagada
+F2025-0115,2025-03-12,2025-04-26,2025-05-16,C001,Almacenes El Dorado,Retail,Bogotá,L. Vargas,45,20500000,pagada
+F2025-0116,2025-03-04,2025-04-18,2025-04-29,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,9100000,pagada
+F2025-0117,2025-03-12,2025-04-26,2025-04-27,C007,Servicios Logísticos Andinos,Servicios,Medellín,L. Vargas,45,7600000,pagada
+F2025-0118,2025-03-12,2025-05-11,2025-05-01,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,5800000,pagada
+F2025-0119,2025-03-17,2025-04-16,2025-04-14,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,6000000,pagada
+F2025-0120,2025-03-12,2025-04-26,2025-05-07,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,A. Rojas,45,23900000,pagada
+F2025-0121,2025-03-17,2025-05-01,2025-04-30,C040,Repuestos El Motor,Retail,Bucaramanga,D. Torres,45,9900000,pagada
+F2025-0122,2025-03-19,2025-04-18,2025-04-25,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,10900000,pagada
+F2025-0123,2025-03-23,2025-04-22,2025-04-14,C039,Eventos y Banquetes Real,Servicios,Barranquilla,D. Torres,30,10500000,pagada
+F2025-0124,2025-03-18,2025-04-17,2025-04-21,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,32200000,pagada
+F2025-0125,2025-03-21,2025-05-20,2025-05-27,C012,Comercial Santa Fe,Retail,Medellín,L. Vargas,60,8900000,pagada
+F2025-0126,2025-03-15,2025-04-14,2025-04-09,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,13000000,pagada
+F2025-0127,2025-03-09,2025-04-08,2025-04-15,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,6800000,pagada
+F2025-0128,2025-03-24,2025-05-23,2025-05-23,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,10000000,pagada
+F2025-0129,2025-03-10,2025-04-09,2025-05-28,C027,Constructora Horizonte,Construcción,Medellín,A. Rojas,30,19100000,pagada
+F2025-0130,2025-03-21,2025-04-20,2025-04-10,C033,Granos del Tolima,Agroindustria,Cali,J. Mora,30,8600000,pagada
+F2025-0131,2025-03-24,2025-04-23,2025-05-03,C039,Eventos y Banquetes Real,Servicios,Barranquilla,C. Peña,30,12000000,pagada
+F2025-0132,2025-03-17,2025-04-16,2025-04-06,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,7100000,pagada
+F2025-0133,2025-03-27,2025-04-26,2025-05-01,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,D. Torres,30,29700000,pagada
+F2025-0134,2025-03-09,2025-04-23,2025-04-13,C031,Seguridad Total Ltda,Servicios,Bogotá,J. Mora,45,8000000,pagada
+F2025-0135,2025-03-11,2025-04-10,2025-04-11,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,14600000,pagada
+F2025-0136,2025-03-06,2025-04-05,2025-04-13,C028,Papelería Nacional,Retail,Cali,J. Mora,30,9900000,pagada
+F2025-0137,2025-03-05,2025-04-04,2025-04-20,C033,Granos del Tolima,Agroindustria,Cali,L. Vargas,30,15000000,pagada
+F2025-0138,2025-03-16,2025-04-15,2025-04-29,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,9400000,pagada
+F2025-0139,2025-03-04,2025-04-03,2025-04-02,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,41400000,pagada
+F2025-0140,2025-03-03,2025-04-02,2025-05-13,C002,Constructora Monserrate,Construcción,Medellín,D. Torres,30,23300000,pagada
+F2025-0141,2025-03-14,2025-05-13,2025-06-08,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,11900000,pagada
+F2025-0142,2025-03-26,2025-04-25,2025-05-14,C009,Obras Civiles del Norte,Construcción,Barranquilla,A. Rojas,30,27000000,pagada
+F2025-0143,2025-03-09,2025-04-08,2025-04-20,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,7800000,pagada
+F2025-0144,2025-03-14,2025-04-13,2025-04-03,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,7000000,pagada
+F2025-0145,2025-03-24,2025-04-23,2025-04-23,C028,Papelería Nacional,Retail,Cali,D. Torres,30,9500000,pagada
+F2025-0146,2025-03-19,2025-05-03,2025-05-06,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,6100000,pagada
+F2025-0147,2025-03-11,2025-04-10,2025-04-17,C022,Maderas del Quindío,Manufactura,Medellín,L. Vargas,30,19200000,pagada
+F2025-0148,2025-03-24,2025-05-08,2025-05-12,C030,Lácteos San Fernando,Manufactura,Bucaramanga,J. Mora,45,18000000,pagada
+F2025-0149,2025-03-24,2025-04-23,2025-04-23,C022,Maderas del Quindío,Manufactura,Medellín,C. Peña,30,13500000,pagada
+F2025-0150,2025-03-17,2025-04-16,2025-04-07,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,8800000,pagada
+F2025-0151,2025-03-14,2025-04-28,2025-04-23,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,6700000,pagada
+F2025-0152,2025-03-12,2025-04-11,2025-04-13,C035,Tecnología Andina,Retail,Bucaramanga,C. Peña,30,9900000,pagada
+F2025-0153,2025-03-05,2025-04-04,2025-04-12,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,33000000,pagada
+F2025-0154,2025-03-01,2025-04-15,2025-04-21,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,4800000,pagada
+F2025-0155,2025-03-09,2025-04-08,2025-04-09,C033,Granos del Tolima,Agroindustria,Cali,D. Torres,30,5200000,pagada
+F2025-0156,2025-03-08,2025-04-22,2025-04-25,C030,Lácteos San Fernando,Manufactura,Bucaramanga,J. Mora,45,9300000,pagada
+F2025-0157,2025-03-28,2025-05-27,2025-06-09,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,15500000,pagada
+F2025-0158,2025-03-22,2025-05-06,2025-04-26,C008,Supermercados La Economía,Retail,Cali,C. Peña,45,10000000,pagada
+F2025-0159,2025-03-27,2025-05-11,2025-05-04,C001,Almacenes El Dorado,Retail,Bogotá,A. Rojas,45,7400000,pagada
+F2025-0160,2025-03-04,2025-04-03,2025-03-26,C011,Metalmecánica Bolívar,Manufactura,Bogotá,J. Mora,30,34400000,pagada
+F2025-0161,2025-03-16,2025-04-30,2025-05-16,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,9500000,pagada
+F2025-0162,2025-03-28,2025-04-27,2025-05-15,C029,Autopartes La 30,Retail,Barranquilla,L. Vargas,30,9500000,pagada
+F2025-0163,2025-03-21,2025-05-05,2025-04-25,C021,Consultores Empresariales BGA,Servicios,Bogotá,C. Peña,45,5400000,pagada
+F2025-0164,2025-03-02,2025-04-16,2025-04-14,C040,Repuestos El Motor,Retail,Bucaramanga,L. Vargas,45,7000000,pagada
+F2025-0165,2025-03-28,2025-05-12,2025-05-02,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,15600000,pagada
+F2025-0166,2025-03-12,2025-04-26,2025-05-09,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,C. Peña,45,7700000,pagada
+F2025-0167,2025-03-16,2025-04-30,2025-05-06,C021,Consultores Empresariales BGA,Servicios,Bogotá,D. Torres,45,4900000,pagada
+F2025-0168,2025-03-24,2025-05-23,2025-05-13,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,10400000,pagada
+F2025-0169,2025-03-02,2025-05-01,2025-05-05,C003,Distribuciones Caribe,Retail,Cali,J. Mora,60,5300000,pagada
+F2025-0170,2025-04-09,2025-05-09,2025-05-09,C029,Autopartes La 30,Retail,Barranquilla,A. Rojas,30,7300000,pagada
+F2025-0171,2025-04-17,2025-05-17,2025-06-25,C027,Constructora Horizonte,Construcción,Medellín,D. Torres,30,10100000,pagada
+F2025-0172,2025-04-26,2025-06-10,2025-06-10,C031,Seguridad Total Ltda,Servicios,Bogotá,A. Rojas,45,14900000,pagada
+F2025-0173,2025-04-11,2025-05-26,2025-06-02,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,5200000,pagada
+F2025-0174,2025-04-01,2025-05-01,2025-05-04,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,5700000,pagada
+F2025-0175,2025-04-10,2025-05-25,2025-05-15,C030,Lácteos San Fernando,Manufactura,Bucaramanga,L. Vargas,45,12100000,pagada
+F2025-0176,2025-04-22,2025-06-06,2025-06-05,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,9300000,pagada
+F2025-0177,2025-04-26,2025-05-26,2025-05-16,C016,Insumos Agrícolas Llanos,Retail,Bogotá,L. Vargas,30,3900000,pagada
+F2025-0178,2025-04-26,2025-05-26,2025-05-16,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,7900000,pagada
+F2025-0179,2025-04-17,2025-05-17,2025-05-13,C016,Insumos Agrícolas Llanos,Retail,Bogotá,L. Vargas,30,9600000,pagada
+F2025-0180,2025-04-07,2025-05-07,2025-06-18,C002,Constructora Monserrate,Construcción,Medellín,C. Peña,30,32000000,pagada
+F2025-0181,2025-04-25,2025-05-25,2025-05-30,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,16600000,pagada
+F2025-0182,2025-04-23,2025-05-23,2025-06-01,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,9300000,pagada
+F2025-0183,2025-04-14,2025-05-14,2025-05-12,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,C. Peña,30,17600000,pagada
+F2025-0184,2025-04-23,2025-06-07,2025-06-06,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,D. Torres,45,8000000,pagada
+F2025-0185,2025-04-06,2025-05-06,2025-05-21,C010,Café y Cosecha,Agroindustria,Bucaramanga,D. Torres,30,14300000,pagada
+F2025-0186,2025-04-19,2025-05-19,2025-05-23,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,7000000,pagada
+F2025-0187,2025-04-13,2025-05-13,2025-05-03,C018,Ingeniería y Concreto,Construcción,Cali,J. Mora,30,33800000,pagada
+F2025-0188,2025-04-03,2025-05-18,2025-05-08,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,6000000,pagada
+F2025-0189,2025-04-02,2025-05-02,2025-05-02,C039,Eventos y Banquetes Real,Servicios,Barranquilla,J. Mora,30,4300000,pagada
+F2025-0190,2025-04-09,2025-05-24,2025-05-17,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,5800000,pagada
+F2025-0191,2025-04-11,2025-05-11,2025-05-05,C011,Metalmecánica Bolívar,Manufactura,Bogotá,D. Torres,30,22400000,pagada
+F2025-0192,2025-04-06,2025-05-06,2025-05-06,C028,Papelería Nacional,Retail,Cali,C. Peña,30,10900000,pagada
+F2025-0193,2025-04-12,2025-05-12,2025-05-20,C022,Maderas del Quindío,Manufactura,Medellín,D. Torres,30,13900000,pagada
+F2025-0194,2025-04-25,2025-05-25,2025-06-29,C002,Constructora Monserrate,Construcción,Medellín,C. Peña,30,21900000,pagada
+F2025-0195,2025-04-14,2025-05-29,2025-06-06,C031,Seguridad Total Ltda,Servicios,Bogotá,D. Torres,45,3200000,pagada
+F2025-0196,2025-04-22,2025-06-06,2025-06-07,C017,Modas Capital,Retail,Medellín,C. Peña,45,5400000,pagada
+F2025-0197,2025-04-10,2025-05-10,2025-04-30,C028,Papelería Nacional,Retail,Cali,L. Vargas,30,3000000,pagada
+F2025-0198,2025-04-20,2025-05-20,2025-06-30,C036,Construred,Construcción,Bogotá,C. Peña,30,42500000,pagada
+F2025-0199,2025-04-27,2025-06-11,2025-06-03,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,L. Vargas,45,6000000,pagada
+F2025-0200,2025-04-20,2025-05-20,2025-07-03,C027,Constructora Horizonte,Construcción,Medellín,C. Peña,30,22600000,pagada
+F2025-0201,2025-04-04,2025-05-04,2025-05-07,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,15900000,pagada
+F2025-0202,2025-04-06,2025-05-06,2025-04-26,C010,Café y Cosecha,Agroindustria,Bucaramanga,J. Mora,30,14400000,pagada
+F2025-0203,2025-04-18,2025-06-02,2025-06-14,C017,Modas Capital,Retail,Medellín,C. Peña,45,13300000,pagada
+F2025-0204,2025-04-17,2025-05-17,2025-05-19,C035,Tecnología Andina,Retail,Bucaramanga,C. Peña,30,3700000,pagada
+F2025-0205,2025-04-24,2025-06-08,2025-06-14,C021,Consultores Empresariales BGA,Servicios,Bogotá,L. Vargas,45,14600000,pagada
+F2025-0206,2025-04-22,2025-06-21,2025-06-23,C014,Panificadora Central,Manufactura,Barranquilla,C. Peña,60,9400000,pagada
+F2025-0207,2025-04-26,2025-06-25,2025-07-15,C032,Acabados y Pinturas,Construcción,Medellín,L. Vargas,60,13900000,pagada
+F2025-0208,2025-04-28,2025-05-28,2025-05-22,C035,Tecnología Andina,Retail,Bucaramanga,A. Rojas,30,14200000,pagada
+F2025-0209,2025-04-09,2025-05-09,2025-05-14,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,18700000,pagada
+F2025-0210,2025-04-07,2025-06-06,2025-06-14,C012,Comercial Santa Fe,Retail,Medellín,L. Vargas,60,11300000,pagada
+F2025-0211,2025-04-03,2025-05-03,2025-04-23,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,9900000,pagada
+F2025-0212,2025-04-01,2025-05-31,2025-05-22,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,L. Vargas,60,10900000,pagada
+F2025-0213,2025-04-20,2025-05-20,2025-06-03,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,47900000,pagada
+F2025-0214,2025-04-25,2025-05-25,2025-05-27,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,15600000,pagada
+F2025-0215,2025-04-05,2025-05-05,2025-05-10,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,6100000,pagada
+F2025-0216,2025-04-15,2025-05-15,2025-05-16,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,7800000,pagada
+F2025-0217,2025-04-01,2025-05-01,2025-05-11,C022,Maderas del Quindío,Manufactura,Medellín,C. Peña,30,31400000,pagada
+F2025-0218,2025-04-04,2025-05-04,2025-06-11,C036,Construred,Construcción,Bogotá,D. Torres,30,24600000,pagada
+F2025-0219,2025-04-16,2025-05-16,2025-05-16,C035,Tecnología Andina,Retail,Bucaramanga,J. Mora,30,5200000,pagada
+F2025-0220,2025-04-02,2025-05-17,2025-05-23,C008,Supermercados La Economía,Retail,Cali,C. Peña,45,4800000,pagada
+F2025-0221,2025-04-19,2025-05-19,2025-05-19,C028,Papelería Nacional,Retail,Cali,A. Rojas,30,3800000,pagada
+F2025-0222,2025-04-17,2025-06-01,2025-06-12,C004,Ferretería La 80,Retail,Barranquilla,L. Vargas,45,13700000,pagada
+F2025-0223,2025-04-08,2025-05-08,2025-05-01,C028,Papelería Nacional,Retail,Cali,D. Torres,30,5800000,pagada
+F2025-0224,2025-04-12,2025-06-11,2025-06-24,C014,Panificadora Central,Manufactura,Barranquilla,J. Mora,60,16600000,pagada
+F2025-0225,2025-04-16,2025-05-16,2025-05-07,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,20700000,pagada
+F2025-0226,2025-04-12,2025-05-12,2025-05-12,C029,Autopartes La 30,Retail,Barranquilla,A. Rojas,30,9400000,pagada
+F2025-0227,2025-04-23,2025-06-07,2025-06-05,C017,Modas Capital,Retail,Medellín,L. Vargas,45,9500000,pagada
+F2025-0228,2025-04-03,2025-05-03,2025-05-02,C033,Granos del Tolima,Agroindustria,Cali,A. Rojas,30,11500000,pagada
+F2025-0229,2025-04-20,2025-05-20,2025-05-12,C022,Maderas del Quindío,Manufactura,Medellín,C. Peña,30,15800000,pagada
+F2025-0230,2025-04-05,2025-05-20,2025-05-12,C040,Repuestos El Motor,Retail,Bucaramanga,C. Peña,45,16200000,pagada
+F2025-0231,2025-04-14,2025-05-14,2025-05-16,C026,Calzado Bucaramanga,Manufactura,Bogotá,J. Mora,30,6100000,pagada
+F2025-0232,2025-05-14,2025-06-13,2025-06-12,C016,Insumos Agrícolas Llanos,Retail,Bogotá,C. Peña,30,4600000,pagada
+F2025-0233,2025-05-02,2025-06-16,2025-06-20,C017,Modas Capital,Retail,Medellín,D. Torres,45,8300000,pagada
+F2025-0234,2025-05-01,2025-06-15,2025-06-17,C021,Consultores Empresariales BGA,Servicios,Bogotá,D. Torres,45,9000000,pagada
+F2025-0235,2025-05-19,2025-07-03,2025-07-04,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,3500000,pagada
+F2025-0236,2025-05-04,2025-06-18,2025-06-19,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,13400000,pagada
+F2025-0237,2025-05-22,2025-06-21,2025-07-15,C027,Constructora Horizonte,Construcción,Medellín,L. Vargas,30,33700000,pagada
+F2025-0238,2025-05-10,2025-06-24,2025-06-28,C030,Lácteos San Fernando,Manufactura,Bucaramanga,L. Vargas,45,8600000,pagada
+F2025-0239,2025-05-27,2025-06-26,2025-06-16,C022,Maderas del Quindío,Manufactura,Medellín,C. Peña,30,11500000,pagada
+F2025-0240,2025-05-23,2025-07-22,2025-07-19,C032,Acabados y Pinturas,Construcción,Medellín,L. Vargas,60,15100000,pagada
+F2025-0241,2025-05-15,2025-06-14,2025-06-14,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,14200000,pagada
+F2025-0242,2025-05-03,2025-07-02,2025-06-27,C023,Electrodomésticos La Rebaja,Retail,Cali,L. Vargas,60,6300000,pagada
+F2025-0243,2025-05-21,2025-06-20,2025-06-25,C018,Ingeniería y Concreto,Construcción,Cali,C. Peña,30,11000000,pagada
+F2025-0244,2025-05-04,2025-06-03,2025-06-19,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,9400000,pagada
+F2025-0245,2025-05-17,2025-07-16,2025-07-16,C032,Acabados y Pinturas,Construcción,Medellín,L. Vargas,60,55600000,pagada
+F2025-0246,2025-05-21,2025-06-20,2025-06-13,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,14400000,pagada
+F2025-0247,2025-05-18,2025-06-17,2025-06-24,C028,Papelería Nacional,Retail,Cali,A. Rojas,30,10200000,pagada
+F2025-0248,2025-05-06,2025-06-05,2025-06-17,C035,Tecnología Andina,Retail,Bucaramanga,C. Peña,30,13300000,pagada
+F2025-0249,2025-05-17,2025-06-16,2025-06-22,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,5500000,pagada
+F2025-0250,2025-05-21,2025-07-20,2025-07-20,C032,Acabados y Pinturas,Construcción,Medellín,C. Peña,60,9400000,pagada
+F2025-0251,2025-05-02,2025-06-16,2025-06-13,C021,Consultores Empresariales BGA,Servicios,Bogotá,L. Vargas,45,6900000,pagada
+F2025-0252,2025-05-10,2025-06-24,2025-06-24,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,19800000,pagada
+F2025-0253,2025-05-12,2025-06-26,2025-06-28,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,7700000,pagada
+F2025-0254,2025-05-11,2025-06-10,2025-07-31,C009,Obras Civiles del Norte,Construcción,Barranquilla,A. Rojas,30,26900000,pagada
+F2025-0255,2025-05-24,2025-06-23,2025-06-30,C018,Ingeniería y Concreto,Construcción,Cali,L. Vargas,30,25300000,pagada
+F2025-0256,2025-05-27,2025-07-11,2025-07-21,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,13500000,pagada
+F2025-0257,2025-05-11,2025-07-10,2025-08-27,C019,Plásticos del Pacífico,Manufactura,Barranquilla,A. Rojas,60,15400000,pagada
+F2025-0258,2025-05-26,2025-07-10,2025-07-14,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,14600000,pagada
+F2025-0259,2025-05-15,2025-06-14,2025-06-16,C009,Obras Civiles del Norte,Construcción,Barranquilla,D. Torres,30,25600000,pagada
+F2025-0260,2025-05-04,2025-06-18,2025-06-08,C040,Repuestos El Motor,Retail,Bucaramanga,L. Vargas,45,1600000,pagada
+F2025-0261,2025-05-24,2025-07-08,2025-06-30,C040,Repuestos El Motor,Retail,Bucaramanga,A. Rojas,45,10500000,pagada
+F2025-0262,2025-05-16,2025-06-15,2025-06-13,C016,Insumos Agrícolas Llanos,Retail,Bogotá,A. Rojas,30,15700000,pagada
+F2025-0263,2025-05-19,2025-06-18,2025-06-23,C033,Granos del Tolima,Agroindustria,Cali,J. Mora,30,10000000,pagada
+F2025-0264,2025-05-24,2025-06-23,2025-06-16,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,9000000,pagada
+F2025-0265,2025-05-09,2025-06-08,2025-05-29,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,13800000,pagada
+F2025-0266,2025-05-08,2025-06-07,2025-07-26,C036,Construred,Construcción,Bogotá,C. Peña,30,15800000,pagada
+F2025-0267,2025-05-23,2025-06-22,2025-06-23,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,12300000,pagada
+F2025-0268,2025-05-14,2025-06-13,2025-06-07,C016,Insumos Agrícolas Llanos,Retail,Bogotá,C. Peña,30,11200000,pagada
+F2025-0269,2025-05-12,2025-06-11,2025-06-10,C026,Calzado Bucaramanga,Manufactura,Bogotá,J. Mora,30,23000000,pagada
+F2025-0270,2025-05-19,2025-07-03,2025-08-15,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,26900000,pagada
+F2025-0271,2025-05-15,2025-07-14,2025-07-22,C014,Panificadora Central,Manufactura,Barranquilla,C. Peña,60,15500000,pagada
+F2025-0272,2025-05-28,2025-07-12,2025-07-02,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,L. Vargas,45,13300000,pagada
+F2025-0273,2025-05-09,2025-07-08,2025-07-06,C023,Electrodomésticos La Rebaja,Retail,Cali,L. Vargas,60,7400000,pagada
+F2025-0274,2025-05-05,2025-07-04,2025-07-22,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,C. Peña,60,27200000,pagada
+F2025-0275,2025-05-21,2025-06-20,2025-06-25,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,8100000,pagada
+F2025-0276,2025-05-05,2025-06-19,2025-06-22,C017,Modas Capital,Retail,Medellín,J. Mora,45,9000000,pagada
+F2025-0277,2025-05-10,2025-06-24,2025-06-20,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,8300000,pagada
+F2025-0278,2025-05-20,2025-07-04,2025-07-06,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,D. Torres,45,13300000,pagada
+F2025-0279,2025-05-24,2025-07-23,2025-07-22,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,18900000,pagada
+F2025-0280,2025-05-21,2025-06-20,2025-06-11,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,16600000,pagada
+F2025-0281,2025-05-23,2025-07-07,2025-06-27,C021,Consultores Empresariales BGA,Servicios,Bogotá,A. Rojas,45,5200000,pagada
+F2025-0282,2025-05-22,2025-07-21,2025-08-28,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,8800000,pagada
+F2025-0283,2025-05-25,2025-07-24,2025-07-31,C003,Distribuciones Caribe,Retail,Cali,C. Peña,60,7300000,pagada
+F2025-0284,2025-05-08,2025-06-22,2025-06-27,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,9800000,pagada
+F2025-0285,2025-05-27,2025-07-26,2025-07-25,C014,Panificadora Central,Manufactura,Barranquilla,D. Torres,60,5400000,pagada
+F2025-0286,2025-05-17,2025-06-16,2025-06-17,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,8600000,pagada
+F2025-0287,2025-05-02,2025-06-01,2025-06-04,C015,Transportes El Rápido,Servicios,Bucaramanga,C. Peña,30,11100000,pagada
+F2025-0288,2025-05-13,2025-06-12,2025-06-10,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,10600000,pagada
+F2025-0289,2025-05-20,2025-07-04,2025-07-01,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,10100000,pagada
+F2025-0290,2025-05-05,2025-07-04,2025-06-28,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,19000000,pagada
+F2025-0291,2025-05-24,2025-07-23,2025-07-25,C014,Panificadora Central,Manufactura,Barranquilla,D. Torres,60,19200000,pagada
+F2025-0292,2025-05-23,2025-07-07,2025-07-05,C007,Servicios Logísticos Andinos,Servicios,Medellín,C. Peña,45,4400000,pagada
+F2025-0293,2025-05-27,2025-07-11,2025-08-23,C013,Constructora Cimientos,Construcción,Cali,L. Vargas,45,14300000,pagada
+F2025-0294,2025-05-01,2025-05-31,2025-06-02,C028,Papelería Nacional,Retail,Cali,J. Mora,30,7800000,pagada
+F2025-0295,2025-05-03,2025-06-02,2025-07-27,C002,Constructora Monserrate,Construcción,Medellín,D. Torres,30,11800000,pagada
+F2025-0296,2025-05-17,2025-07-16,2025-07-19,C014,Panificadora Central,Manufactura,Barranquilla,J. Mora,60,16800000,pagada
+F2025-0297,2025-05-13,2025-06-27,2025-07-12,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,7900000,pagada
+F2025-0298,2025-05-19,2025-06-18,2025-06-15,C039,Eventos y Banquetes Real,Servicios,Barranquilla,L. Vargas,30,10800000,pagada
+F2025-0299,2025-05-11,2025-06-25,2025-07-01,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,8600000,pagada
+F2025-0300,2025-05-04,2025-06-03,2025-06-03,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,9700000,pagada
+F2025-0301,2025-05-17,2025-07-01,2025-06-21,C008,Supermercados La Economía,Retail,Cali,A. Rojas,45,7700000,pagada
+F2025-0302,2025-05-09,2025-06-23,2025-07-06,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,9400000,pagada
+F2025-0303,2025-05-12,2025-07-11,2025-09-04,C019,Plásticos del Pacífico,Manufactura,Barranquilla,J. Mora,60,10800000,pagada
+F2025-0304,2025-05-18,2025-07-02,2025-07-07,C031,Seguridad Total Ltda,Servicios,Bogotá,A. Rojas,45,6100000,pagada
+F2025-0305,2025-05-07,2025-07-06,2025-07-05,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,C. Peña,60,14700000,pagada
+F2025-0306,2025-05-13,2025-06-12,2025-07-27,C036,Construred,Construcción,Bogotá,A. Rojas,30,11000000,pagada
+F2025-0307,2025-05-05,2025-07-04,2025-07-06,C014,Panificadora Central,Manufactura,Barranquilla,D. Torres,60,10700000,pagada
+F2025-0308,2025-05-09,2025-07-08,2025-07-05,C012,Comercial Santa Fe,Retail,Medellín,J. Mora,60,9200000,pagada
+F2025-0309,2025-06-10,2025-07-25,2025-07-26,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,18900000,pagada
+F2025-0310,2025-06-01,2025-07-16,2025-07-10,C040,Repuestos El Motor,Retail,Bucaramanga,A. Rojas,45,3300000,pagada
+F2025-0311,2025-06-16,2025-07-16,2025-09-08,C002,Constructora Monserrate,Construcción,Medellín,D. Torres,30,16200000,pagada
+F2025-0312,2025-06-12,2025-07-27,2025-07-29,C021,Consultores Empresariales BGA,Servicios,Bogotá,C. Peña,45,11600000,pagada
+F2025-0313,2025-06-10,2025-07-10,2025-07-12,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,9600000,pagada
+F2025-0314,2025-06-21,2025-08-05,2025-07-26,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,3000000,pagada
+F2025-0315,2025-06-18,2025-07-18,2025-07-26,C028,Papelería Nacional,Retail,Cali,C. Peña,30,8600000,pagada
+F2025-0316,2025-06-22,2025-08-06,2025-08-17,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,11800000,pagada
+F2025-0317,2025-06-02,2025-07-02,2025-07-12,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,10900000,pagada
+F2025-0318,2025-06-24,2025-08-08,2025-08-16,C040,Repuestos El Motor,Retail,Bucaramanga,A. Rojas,45,6600000,pagada
+F2025-0319,2025-06-26,2025-08-10,2025-10-04,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,22000000,pagada
+F2025-0320,2025-06-27,2025-08-11,2025-09-03,C013,Constructora Cimientos,Construcción,Cali,L. Vargas,45,11600000,pagada
+F2025-0321,2025-06-14,2025-08-13,2025-08-03,C012,Comercial Santa Fe,Retail,Medellín,J. Mora,60,7600000,pagada
+F2025-0322,2025-06-01,2025-07-31,2025-10-06,C019,Plásticos del Pacífico,Manufactura,Barranquilla,D. Torres,60,9500000,pagada
+F2025-0323,2025-06-11,2025-07-26,2025-07-25,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,7100000,pagada
+F2025-0324,2025-06-27,2025-08-11,2025-08-11,C017,Modas Capital,Retail,Medellín,J. Mora,45,3600000,pagada
+F2025-0325,2025-06-09,2025-07-09,2025-07-27,C009,Obras Civiles del Norte,Construcción,Barranquilla,D. Torres,30,21200000,pagada
+F2025-0326,2025-06-10,2025-08-09,2025-08-14,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,9100000,pagada
+F2025-0327,2025-06-04,2025-07-04,2025-07-13,C015,Transportes El Rápido,Servicios,Bucaramanga,D. Torres,30,3600000,pagada
+F2025-0328,2025-06-18,2025-07-18,2025-08-24,C027,Constructora Horizonte,Construcción,Medellín,J. Mora,30,29200000,pagada
+F2025-0329,2025-06-01,2025-07-16,2025-07-21,C031,Seguridad Total Ltda,Servicios,Bogotá,C. Peña,45,5600000,pagada
+F2025-0330,2025-06-22,2025-07-22,2025-08-06,C015,Transportes El Rápido,Servicios,Bucaramanga,A. Rojas,30,6100000,pagada
+F2025-0331,2025-06-24,2025-08-08,2025-09-24,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,19600000,pagada
+F2025-0332,2025-06-10,2025-08-09,2025-07-31,C032,Acabados y Pinturas,Construcción,Medellín,C. Peña,60,53200000,pagada
+F2025-0333,2025-06-09,2025-07-09,2025-07-02,C028,Papelería Nacional,Retail,Cali,J. Mora,30,16600000,pagada
+F2025-0334,2025-06-12,2025-07-12,2025-07-17,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,11200000,pagada
+F2025-0335,2025-06-03,2025-07-03,2025-06-29,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,10400000,pagada
+F2025-0336,2025-06-10,2025-07-10,2025-08-01,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,6700000,pagada
+F2025-0337,2025-06-10,2025-07-10,2025-07-08,C038,Química Industrial CB,Manufactura,Cali,C. Peña,30,20900000,pagada
+F2025-0338,2025-06-23,2025-08-07,2025-07-28,C017,Modas Capital,Retail,Medellín,L. Vargas,45,6200000,pagada
+F2025-0339,2025-06-22,2025-07-22,2025-07-12,C016,Insumos Agrícolas Llanos,Retail,Bogotá,A. Rojas,30,3800000,pagada
+F2025-0340,2025-06-12,2025-07-27,2025-09-02,C013,Constructora Cimientos,Construcción,Cali,A. Rojas,45,39900000,pagada
+F2025-0341,2025-06-03,2025-07-03,2025-07-12,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,12000000,pagada
+F2025-0342,2025-06-13,2025-07-28,2025-08-05,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,17700000,pagada
+F2025-0343,2025-06-14,2025-07-14,2025-07-21,C029,Autopartes La 30,Retail,Barranquilla,L. Vargas,30,10900000,pagada
+F2025-0344,2025-06-26,2025-07-26,2025-07-18,C033,Granos del Tolima,Agroindustria,Cali,A. Rojas,30,6000000,pagada
+F2025-0345,2025-06-15,2025-07-30,2025-08-01,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,2300000,pagada
+F2025-0346,2025-06-23,2025-08-07,2025-08-09,C020,Droguería Vital,Servicios,Bucaramanga,C. Peña,45,4600000,pagada
+F2025-0347,2025-06-19,2025-07-19,2025-09-13,C009,Obras Civiles del Norte,Construcción,Barranquilla,C. Peña,30,29100000,pagada
+F2025-0348,2025-06-23,2025-07-23,2025-09-19,C036,Construred,Construcción,Bogotá,L. Vargas,30,14000000,pagada
+F2025-0349,2025-06-19,2025-07-19,2025-07-21,C011,Metalmecánica Bolívar,Manufactura,Bogotá,D. Torres,30,22400000,pagada
+F2025-0350,2025-06-11,2025-08-10,2025-08-10,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,6200000,pagada
+F2025-0351,2025-06-22,2025-08-21,2025-09-05,C023,Electrodomésticos La Rebaja,Retail,Cali,C. Peña,60,13100000,pagada
+F2025-0352,2025-06-11,2025-07-11,2025-08-09,C036,Construred,Construcción,Bogotá,D. Torres,30,25200000,pagada
+F2025-0353,2025-06-11,2025-07-11,2025-07-12,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,19800000,pagada
+F2025-0354,2025-06-15,2025-07-30,2025-08-09,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,6800000,pagada
+F2025-0355,2025-06-28,2025-08-27,2025-08-25,C014,Panificadora Central,Manufactura,Barranquilla,C. Peña,60,20000000,pagada
+F2025-0356,2025-06-22,2025-08-06,2025-08-01,C007,Servicios Logísticos Andinos,Servicios,Medellín,J. Mora,45,6200000,pagada
+F2025-0357,2025-06-28,2025-08-12,2025-09-26,C013,Constructora Cimientos,Construcción,Cali,L. Vargas,45,29500000,pagada
+F2025-0358,2025-06-28,2025-07-28,2025-07-27,C022,Maderas del Quindío,Manufactura,Medellín,A. Rojas,30,26900000,pagada
+F2025-0359,2025-06-03,2025-08-02,2025-08-04,C012,Comercial Santa Fe,Retail,Medellín,L. Vargas,60,6400000,pagada
+F2025-0360,2025-06-18,2025-08-17,2025-08-22,C003,Distribuciones Caribe,Retail,Cali,A. Rojas,60,17600000,pagada
+F2025-0361,2025-06-03,2025-07-18,2025-07-08,C021,Consultores Empresariales BGA,Servicios,Bogotá,A. Rojas,45,11100000,pagada
+F2025-0362,2025-06-07,2025-08-06,2025-08-08,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,12200000,pagada
+F2025-0363,2025-06-16,2025-07-16,2025-07-17,C010,Café y Cosecha,Agroindustria,Bucaramanga,J. Mora,30,5500000,pagada
+F2025-0364,2025-06-28,2025-08-12,2025-08-15,C001,Almacenes El Dorado,Retail,Bogotá,C. Peña,45,12300000,pagada
+F2025-0365,2025-06-19,2025-08-03,2025-07-24,C004,Ferretería La 80,Retail,Barranquilla,A. Rojas,45,7100000,pagada
+F2025-0366,2025-06-07,2025-07-07,2025-06-27,C018,Ingeniería y Concreto,Construcción,Cali,D. Torres,30,32200000,pagada
+F2025-0367,2025-06-23,2025-07-23,2025-07-17,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,5000000,pagada
+F2025-0368,2025-06-27,2025-08-11,2025-08-18,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,2500000,pagada
+F2025-0369,2025-06-15,2025-07-30,2025-07-20,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,7600000,pagada
+F2025-0370,2025-06-21,2025-07-21,2025-07-25,C002,Constructora Monserrate,Construcción,Medellín,J. Mora,30,38300000,pagada
+F2025-0371,2025-07-28,2025-09-26,2025-09-21,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,12700000,pagada
+F2025-0372,2025-07-04,2025-08-18,2025-08-16,C017,Modas Capital,Retail,Medellín,D. Torres,45,10400000,pagada
+F2025-0373,2025-07-11,2025-09-09,2025-09-13,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,39600000,pagada
+F2025-0374,2025-07-06,2025-08-05,2025-08-06,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,15100000,pagada
+F2025-0375,2025-07-11,2025-08-10,2025-09-01,C036,Construred,Construcción,Bogotá,A. Rojas,30,28300000,pagada
+F2025-0376,2025-07-26,2025-09-24,2025-10-13,C032,Acabados y Pinturas,Construcción,Medellín,A. Rojas,60,30400000,pagada
+F2025-0377,2025-07-27,2025-08-26,2025-09-26,C009,Obras Civiles del Norte,Construcción,Barranquilla,A. Rojas,30,18600000,pagada
+F2025-0378,2025-07-25,2025-08-24,2025-08-23,C034,Muebles Modernos,Manufactura,Barranquilla,D. Torres,30,12500000,pagada
+F2025-0379,2025-07-28,2025-09-26,2025-10-05,C003,Distribuciones Caribe,Retail,Cali,A. Rojas,60,3900000,pagada
+F2025-0380,2025-07-23,2025-09-21,2025-09-13,C012,Comercial Santa Fe,Retail,Medellín,A. Rojas,60,10100000,pagada
+F2025-0381,2025-07-06,2025-08-05,2025-08-15,C029,Autopartes La 30,Retail,Barranquilla,A. Rojas,30,14900000,pagada
+F2025-0382,2025-07-16,2025-08-30,2025-10-11,C013,Constructora Cimientos,Construcción,Cali,L. Vargas,45,31900000,pagada
+F2025-0383,2025-07-11,2025-08-25,2025-08-30,C030,Lácteos San Fernando,Manufactura,Bucaramanga,L. Vargas,45,13800000,pagada
+F2025-0384,2025-07-09,2025-08-08,2025-08-12,C035,Tecnología Andina,Retail,Bucaramanga,D. Torres,30,9200000,pagada
+F2025-0385,2025-07-07,2025-09-05,2025-08-26,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,14800000,pagada
+F2025-0386,2025-07-13,2025-08-27,2025-08-17,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,7900000,pagada
+F2025-0387,2025-07-06,2025-08-05,2025-07-29,C038,Química Industrial CB,Manufactura,Cali,C. Peña,30,24600000,pagada
+F2025-0388,2025-07-16,2025-08-30,2025-08-26,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,4300000,pagada
+F2025-0389,2025-07-24,2025-09-07,2025-09-13,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,5100000,pagada
+F2025-0390,2025-07-25,2025-09-23,2025-11-07,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,32400000,pagada
+F2025-0391,2025-07-11,2025-08-10,2025-07-31,C018,Ingeniería y Concreto,Construcción,Cali,D. Torres,30,28500000,pagada
+F2025-0392,2025-07-02,2025-08-01,2025-08-01,C028,Papelería Nacional,Retail,Cali,C. Peña,30,7300000,pagada
+F2025-0393,2025-07-27,2025-09-25,2025-10-03,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,10800000,pagada
+F2025-0394,2025-07-11,2025-08-25,2025-08-26,C007,Servicios Logísticos Andinos,Servicios,Medellín,L. Vargas,45,8700000,pagada
+F2025-0395,2025-07-23,2025-08-22,2025-09-13,C026,Calzado Bucaramanga,Manufactura,Bogotá,C. Peña,30,11600000,pagada
+F2025-0396,2025-07-19,2025-08-18,2025-10-11,C027,Constructora Horizonte,Construcción,Medellín,L. Vargas,30,38800000,pagada
+F2025-0397,2025-07-04,2025-08-03,2025-08-13,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,A. Rojas,30,27300000,pagada
+F2025-0398,2025-07-18,2025-08-17,2025-08-17,C016,Insumos Agrícolas Llanos,Retail,Bogotá,L. Vargas,30,8600000,pagada
+F2025-0399,2025-07-04,2025-09-02,2025-09-16,C032,Acabados y Pinturas,Construcción,Medellín,D. Torres,60,26200000,pagada
+F2025-0400,2025-07-06,2025-08-20,2025-08-29,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,J. Mora,45,6600000,pagada
+F2025-0401,2025-07-23,2025-09-21,2025-09-29,C006,Textiles Antioquia,Manufactura,Bogotá,C. Peña,60,18800000,pagada
+F2025-0402,2025-07-21,2025-08-20,2025-09-16,C002,Constructora Monserrate,Construcción,Medellín,L. Vargas,30,14500000,pagada
+F2025-0403,2025-07-17,2025-09-15,2025-09-16,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,D. Torres,60,15600000,pagada
+F2025-0404,2025-07-27,2025-09-25,2025-10-18,C019,Plásticos del Pacífico,Manufactura,Barranquilla,D. Torres,60,3700000,pagada
+F2025-0405,2025-07-15,2025-08-14,2025-08-19,C039,Eventos y Banquetes Real,Servicios,Barranquilla,D. Torres,30,4800000,pagada
+F2025-0406,2025-07-21,2025-09-04,2025-09-04,C021,Consultores Empresariales BGA,Servicios,Bogotá,D. Torres,45,12400000,pagada
+F2025-0407,2025-07-18,2025-08-17,2025-09-01,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,39900000,pagada
+F2025-0408,2025-07-14,2025-08-13,2025-09-16,C009,Obras Civiles del Norte,Construcción,Barranquilla,L. Vargas,30,16800000,pagada
+F2025-0409,2025-07-23,2025-08-22,2025-08-21,C018,Ingeniería y Concreto,Construcción,Cali,L. Vargas,30,21000000,pagada
+F2025-0410,2025-07-26,2025-09-24,2025-10-16,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,13300000,pagada
+F2025-0411,2025-07-22,2025-09-20,2025-09-25,C023,Electrodomésticos La Rebaja,Retail,Cali,J. Mora,60,19000000,pagada
+F2025-0412,2025-07-22,2025-09-05,2025-08-31,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,6100000,pagada
+F2025-0413,2025-07-17,2025-08-31,2025-09-02,C020,Droguería Vital,Servicios,Bucaramanga,D. Torres,45,10100000,pagada
+F2025-0414,2025-07-02,2025-08-31,2025-08-21,C014,Panificadora Central,Manufactura,Barranquilla,J. Mora,60,7600000,pagada
+F2025-0415,2025-07-17,2025-08-31,2025-09-12,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,8900000,pagada
+F2025-0416,2025-07-11,2025-08-25,2025-08-25,C004,Ferretería La 80,Retail,Barranquilla,J. Mora,45,3100000,pagada
+F2025-0417,2025-07-21,2025-09-04,2025-08-25,C021,Consultores Empresariales BGA,Servicios,Bogotá,C. Peña,45,16700000,pagada
+F2025-0418,2025-07-23,2025-08-22,2025-08-28,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,30200000,pagada
+F2025-0419,2025-07-10,2025-08-24,2025-08-28,C008,Supermercados La Economía,Retail,Cali,D. Torres,45,8900000,pagada
+F2025-0420,2025-07-05,2025-08-19,2025-08-28,C017,Modas Capital,Retail,Medellín,J. Mora,45,5900000,pagada
+F2025-0421,2025-07-23,2025-08-22,2025-10-01,C009,Obras Civiles del Norte,Construcción,Barranquilla,D. Torres,30,25500000,pagada
+F2025-0422,2025-07-07,2025-08-06,2025-08-03,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,9900000,pagada
+F2025-0423,2025-07-24,2025-09-07,2025-08-31,C017,Modas Capital,Retail,Medellín,J. Mora,45,7200000,pagada
+F2025-0424,2025-07-07,2025-08-06,2025-08-14,C039,Eventos y Banquetes Real,Servicios,Barranquilla,J. Mora,30,3900000,pagada
+F2025-0425,2025-07-06,2025-08-05,2025-08-02,C010,Café y Cosecha,Agroindustria,Bucaramanga,D. Torres,30,7800000,pagada
+F2025-0426,2025-07-10,2025-08-24,2025-08-24,C004,Ferretería La 80,Retail,Barranquilla,C. Peña,45,9900000,pagada
+F2025-0427,2025-07-10,2025-09-08,2025-09-09,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,C. Peña,60,5400000,pagada
+F2025-0428,2025-07-05,2025-08-04,2025-09-11,C027,Constructora Horizonte,Construcción,Medellín,C. Peña,30,23400000,pagada
+F2025-0429,2025-08-04,2025-09-18,2025-09-22,C001,Almacenes El Dorado,Retail,Bogotá,L. Vargas,45,12400000,pagada
+F2025-0430,2025-08-24,2025-09-23,2025-09-13,C029,Autopartes La 30,Retail,Barranquilla,J. Mora,30,7600000,pagada
+F2025-0431,2025-08-18,2025-10-02,2025-10-21,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,15780000,pagada
+F2025-0432,2025-08-21,2025-09-20,2025-09-19,C035,Tecnología Andina,Retail,Bucaramanga,A. Rojas,30,6500000,pagada
+F2025-0433,2025-08-02,2025-09-01,2025-08-28,C015,Transportes El Rápido,Servicios,Bucaramanga,L. Vargas,30,4900000,pagada
+F2025-0434,2025-08-21,2025-09-20,2025-09-20,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,20100000,pagada
+F2025-0435,2025-08-26,2025-09-25,2025-09-20,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,10600000,pagada
+F2025-0436,2025-08-28,2025-09-27,2025-09-24,C022,Maderas del Quindío,Manufactura,Medellín,L. Vargas,30,9200000,pagada
+F2025-0437,2025-08-10,2025-09-24,2025-10-02,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,7000000,pagada
+F2025-0438,2025-08-28,2025-10-27,2025-10-27,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,8600000,pagada
+F2025-0439,2025-08-18,2025-09-17,2025-09-07,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,13900000,pagada
+F2025-0440,2025-08-24,2025-09-23,2025-10-04,C015,Transportes El Rápido,Servicios,Bucaramanga,C. Peña,30,6600000,pagada
+F2025-0441,2025-08-11,2025-09-25,2025-10-07,C020,Droguería Vital,Servicios,Bucaramanga,L. Vargas,45,7600000,pagada
+F2025-0442,2025-08-26,2025-09-25,2025-09-21,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,17900000,pagada
+F2025-0443,2025-08-04,2025-09-03,2025-08-24,C026,Calzado Bucaramanga,Manufactura,Bogotá,C. Peña,30,6800000,pagada
+F2025-0444,2025-08-07,2025-09-21,2025-09-19,C001,Almacenes El Dorado,Retail,Bogotá,A. Rojas,45,5500000,pagada
+F2025-0445,2025-08-13,2025-09-12,2025-09-12,C035,Tecnología Andina,Retail,Bucaramanga,D. Torres,30,4500000,pagada
+F2025-0446,2025-08-21,2025-10-05,2025-10-11,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,J. Mora,45,11900000,pagada
+F2025-0447,2025-08-19,2025-10-03,2025-10-19,C040,Repuestos El Motor,Retail,Bucaramanga,D. Torres,45,9500000,pagada
+F2025-0448,2025-08-28,2025-10-27,2025-12-17,C019,Plásticos del Pacífico,Manufactura,Barranquilla,J. Mora,60,13700000,pagada
+F2025-0449,2025-08-12,2025-09-26,2025-09-26,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,D. Torres,45,5300000,pagada
+F2025-0450,2025-08-06,2025-09-05,2025-09-04,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,12700000,pagada
+F2025-0451,2025-08-18,2025-09-17,2025-09-18,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,12500000,pagada
+F2025-0452,2025-08-08,2025-09-22,2025-09-28,C021,Consultores Empresariales BGA,Servicios,Bogotá,A. Rojas,45,4800000,pagada
+F2025-0453,2025-08-12,2025-09-11,2025-09-07,C015,Transportes El Rápido,Servicios,Bucaramanga,L. Vargas,30,7500000,pagada
+F2025-0454,2025-08-03,2025-10-02,2025-11-18,C019,Plásticos del Pacífico,Manufactura,Barranquilla,A. Rojas,60,14300000,pagada
+F2025-0455,2025-08-05,2025-09-19,2025-10-01,C031,Seguridad Total Ltda,Servicios,Bogotá,C. Peña,45,7100000,pagada
+F2025-0456,2025-08-07,2025-09-21,2025-09-26,C004,Ferretería La 80,Retail,Barranquilla,L. Vargas,45,17400000,pagada
+F2025-0457,2025-08-25,2025-09-24,2025-09-19,C029,Autopartes La 30,Retail,Barranquilla,L. Vargas,30,4900000,pagada
+F2025-0458,2025-08-16,2025-09-30,2025-10-04,C001,Almacenes El Dorado,Retail,Bogotá,J. Mora,45,8400000,pagada
+F2025-0459,2025-08-05,2025-10-04,2025-10-14,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,L. Vargas,60,6300000,pagada
+F2025-0460,2025-08-02,2025-09-16,2025-09-06,C020,Droguería Vital,Servicios,Bucaramanga,L. Vargas,45,5900000,pagada
+F2025-0461,2025-08-02,2025-10-01,2025-11-15,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,4700000,pagada
+F2025-0462,2025-08-28,2025-10-12,2025-10-12,C020,Droguería Vital,Servicios,Bucaramanga,C. Peña,45,6700000,pagada
+F2025-0463,2025-08-15,2025-09-29,2025-09-25,C020,Droguería Vital,Servicios,Bucaramanga,D. Torres,45,6000000,pagada
+F2025-0464,2025-08-27,2025-10-11,2025-10-17,C017,Modas Capital,Retail,Medellín,L. Vargas,45,15100000,pagada
+F2025-0465,2025-08-09,2025-10-08,2025-10-27,C019,Plásticos del Pacífico,Manufactura,Barranquilla,J. Mora,60,12600000,pagada
+F2025-0466,2025-08-10,2025-10-09,2025-10-17,C023,Electrodomésticos La Rebaja,Retail,Cali,J. Mora,60,3900000,pagada
+F2025-0467,2025-08-23,2025-10-07,2025-09-30,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,19000000,pagada
+F2025-0468,2025-08-10,2025-10-09,2025-10-21,C023,Electrodomésticos La Rebaja,Retail,Cali,J. Mora,60,19100000,pagada
+F2025-0469,2025-08-07,2025-09-06,2025-09-08,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,15500000,pagada
+F2025-0470,2025-08-03,2025-09-02,2025-09-03,C034,Muebles Modernos,Manufactura,Barranquilla,C. Peña,30,10200000,pagada
+F2025-0471,2025-08-18,2025-10-02,2025-10-08,C040,Repuestos El Motor,Retail,Bucaramanga,L. Vargas,45,9000000,pagada
+F2025-0472,2025-08-07,2025-09-06,2025-09-16,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,4800000,pagada
+F2025-0473,2025-08-09,2025-09-08,2025-09-08,C029,Autopartes La 30,Retail,Barranquilla,J. Mora,30,6100000,pagada
+F2025-0474,2025-08-13,2025-09-12,2025-09-10,C010,Café y Cosecha,Agroindustria,Bucaramanga,C. Peña,30,6300000,pagada
+F2025-0475,2025-08-17,2025-10-01,2025-10-08,C008,Supermercados La Economía,Retail,Cali,D. Torres,45,6400000,pagada
+F2025-0476,2025-08-22,2025-10-21,2025-10-30,C032,Acabados y Pinturas,Construcción,Medellín,A. Rojas,60,12360000,pagada
+F2025-0477,2025-08-25,2025-10-24,2025-10-14,C003,Distribuciones Caribe,Retail,Cali,A. Rojas,60,4200000,pagada
+F2025-0478,2025-08-07,2025-09-06,2025-08-28,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,15200000,pagada
+F2025-0479,2025-08-16,2025-09-30,2025-10-23,C031,Seguridad Total Ltda,Servicios,Bogotá,D. Torres,45,5300000,pagada
+F2025-0480,2025-08-23,2025-10-07,2025-09-29,C040,Repuestos El Motor,Retail,Bucaramanga,C. Peña,45,9300000,pagada
+F2025-0481,2025-08-04,2025-09-03,2025-10-13,C027,Constructora Horizonte,Construcción,Medellín,J. Mora,30,4620000,pagada
+F2025-0482,2025-08-03,2025-09-02,2025-09-06,C035,Tecnología Andina,Retail,Bucaramanga,D. Torres,30,6900000,pagada
+F2025-0483,2025-09-22,2025-11-06,2025-12-31,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,18500000,pagada
+F2025-0484,2025-09-23,2025-10-23,2025-12-08,C009,Obras Civiles del Norte,Construcción,Barranquilla,L. Vargas,30,12200000,pagada
+F2025-0485,2025-09-19,2025-11-03,2025-11-07,C001,Almacenes El Dorado,Retail,Bogotá,L. Vargas,45,6600000,pagada
+F2025-0486,2025-09-06,2025-10-06,2025-11-03,C036,Construred,Construcción,Bogotá,C. Peña,30,32900000,pagada
+F2025-0487,2025-09-19,2025-10-19,2025-10-16,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,10400000,pagada
+F2025-0488,2025-09-07,2025-10-07,2025-10-24,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,13300000,pagada
+F2025-0489,2025-09-13,2025-11-12,2025-11-14,C003,Distribuciones Caribe,Retail,Cali,J. Mora,60,5300000,pagada
+F2025-0490,2025-09-10,2025-11-09,2025-11-06,C014,Panificadora Central,Manufactura,Barranquilla,J. Mora,60,9900000,pagada
+F2025-0491,2025-09-18,2025-10-18,2025-10-18,C039,Eventos y Banquetes Real,Servicios,Barranquilla,A. Rojas,30,4000000,pagada
+F2025-0492,2025-09-13,2025-11-12,2025-11-06,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,20500000,pagada
+F2025-0493,2025-09-24,2025-11-23,2025-11-25,C006,Textiles Antioquia,Manufactura,Bogotá,J. Mora,60,11400000,pagada
+F2025-0494,2025-09-27,2025-11-26,2025-12-08,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,30200000,pagada
+F2025-0495,2025-09-21,2025-10-21,2025-10-24,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,7600000,pagada
+F2025-0496,2025-09-18,2025-10-18,2025-10-27,C039,Eventos y Banquetes Real,Servicios,Barranquilla,J. Mora,30,12600000,pagada
+F2025-0497,2025-09-12,2025-10-27,2025-10-21,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,2200000,pagada
+F2025-0498,2025-09-10,2025-10-10,2025-10-21,C037,Alimentos La Espiga,Manufactura,Medellín,D. Torres,30,24200000,pagada
+F2025-0499,2025-09-15,2025-10-15,2025-10-26,C028,Papelería Nacional,Retail,Cali,D. Torres,30,9700000,pagada
+F2025-0500,2025-09-05,2025-10-05,2025-10-09,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,14000000,pagada
+F2025-0501,2025-09-11,2025-10-11,2025-10-11,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,6100000,pagada
+F2025-0502,2025-09-07,2025-11-06,2025-11-03,C014,Panificadora Central,Manufactura,Barranquilla,D. Torres,60,13100000,pagada
+F2025-0503,2025-09-28,2025-10-28,2025-11-02,C034,Muebles Modernos,Manufactura,Barranquilla,A. Rojas,30,13800000,pagada
+F2025-0504,2025-09-12,2025-10-27,2025-10-29,C007,Servicios Logísticos Andinos,Servicios,Medellín,J. Mora,45,5400000,pagada
+F2025-0505,2025-09-05,2025-11-04,2025-11-05,C012,Comercial Santa Fe,Retail,Medellín,C. Peña,60,10500000,pagada
+F2025-0506,2025-09-05,2025-10-05,2025-10-19,C009,Obras Civiles del Norte,Construcción,Barranquilla,J. Mora,30,33900000,pagada
+F2025-0507,2025-09-23,2025-11-22,2025-11-23,C006,Textiles Antioquia,Manufactura,Bogotá,C. Peña,60,15800000,pagada
+F2025-0508,2025-09-20,2025-11-04,2025-11-11,C004,Ferretería La 80,Retail,Barranquilla,C. Peña,45,6900000,pagada
+F2025-0509,2025-09-01,2025-10-16,2025-10-16,C008,Supermercados La Economía,Retail,Cali,L. Vargas,45,10600000,pagada
+F2025-0510,2025-09-21,2025-10-21,2025-11-02,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,14100000,pagada
+F2025-0511,2025-09-11,2025-10-11,2025-10-19,C016,Insumos Agrícolas Llanos,Retail,Bogotá,D. Torres,30,5700000,pagada
+F2025-0512,2025-09-27,2025-11-26,2025-11-21,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,17100000,pagada
+F2025-0513,2025-09-26,2025-11-25,2025-11-27,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,11900000,pagada
+F2025-0514,2025-09-02,2025-10-17,2025-10-24,C040,Repuestos El Motor,Retail,Bucaramanga,C. Peña,45,10200000,pagada
+F2025-0515,2025-09-05,2025-10-20,2025-10-20,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,9400000,pagada
+F2025-0516,2025-09-20,2025-11-19,2025-11-16,C003,Distribuciones Caribe,Retail,Cali,J. Mora,60,5700000,pagada
+F2025-0517,2025-09-15,2025-10-15,2025-11-04,C002,Constructora Monserrate,Construcción,Medellín,A. Rojas,30,32700000,pagada
+F2025-0518,2025-09-28,2025-11-27,2025-11-29,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,5600000,pagada
+F2025-0519,2025-09-28,2025-10-28,2025-11-04,C022,Maderas del Quindío,Manufactura,Medellín,D. Torres,30,11800000,pagada
+F2025-0520,2025-09-04,2025-10-04,2025-10-04,C034,Muebles Modernos,Manufactura,Barranquilla,A. Rojas,30,15500000,pagada
+F2025-0521,2025-09-20,2025-11-04,2025-10-31,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,17300000,pagada
+F2025-0522,2025-09-23,2025-11-22,2025-11-27,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,22400000,pagada
+F2025-0523,2025-09-15,2025-10-30,2025-10-23,C004,Ferretería La 80,Retail,Barranquilla,J. Mora,45,11400000,pagada
+F2025-0524,2025-09-11,2025-10-26,2025-10-30,C031,Seguridad Total Ltda,Servicios,Bogotá,A. Rojas,45,10300000,pagada
+F2025-0525,2025-09-04,2025-10-04,2025-11-19,C002,Constructora Monserrate,Construcción,Medellín,A. Rojas,30,20000000,pagada
+F2025-0526,2025-09-10,2025-10-10,2025-10-19,C026,Calzado Bucaramanga,Manufactura,Bogotá,D. Torres,30,15600000,pagada
+F2025-0527,2025-09-23,2025-11-07,2025-10-30,C017,Modas Capital,Retail,Medellín,J. Mora,45,6400000,pagada
+F2025-0528,2025-09-27,2025-10-27,2025-12-12,C036,Construred,Construcción,Bogotá,L. Vargas,30,9700000,pagada
+F2025-0529,2025-09-26,2025-11-10,2025-11-28,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,41800000,pagada
+F2025-0530,2025-09-21,2025-10-21,2025-10-19,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,26500000,pagada
+F2025-0531,2025-09-11,2025-10-11,2025-10-15,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,8900000,pagada
+F2025-0532,2025-09-07,2025-10-22,2025-10-12,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,7100000,pagada
+F2025-0533,2025-09-07,2025-10-07,2025-10-02,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,22200000,pagada
+F2025-0534,2025-09-18,2025-10-18,2025-10-18,C029,Autopartes La 30,Retail,Barranquilla,J. Mora,30,3200000,pagada
+F2025-0535,2025-09-25,2025-11-09,2025-11-15,C017,Modas Capital,Retail,Medellín,C. Peña,45,4200000,pagada
+F2025-0536,2025-09-03,2025-10-03,2025-10-01,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,13600000,pagada
+F2025-0537,2025-09-13,2025-10-13,2025-10-13,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,11100000,pagada
+F2025-0538,2025-09-09,2025-11-08,2025-11-10,C014,Panificadora Central,Manufactura,Barranquilla,L. Vargas,60,8300000,pagada
+F2025-0539,2025-09-25,2025-11-09,2025-11-14,C007,Servicios Logísticos Andinos,Servicios,Medellín,J. Mora,45,5300000,pagada
+F2025-0540,2025-09-07,2025-11-06,2025-12-20,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,17600000,pagada
+F2025-0541,2025-09-02,2025-11-01,2025-10-22,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,14500000,pagada
+F2025-0542,2025-09-14,2025-10-29,2025-10-29,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,10300000,pagada
+F2025-0543,2025-09-19,2025-11-03,2025-11-14,C017,Modas Capital,Retail,Medellín,J. Mora,45,5200000,pagada
+F2025-0544,2025-09-06,2025-11-05,2025-11-06,C032,Acabados y Pinturas,Construcción,Medellín,L. Vargas,60,36600000,pagada
+F2025-0545,2025-10-27,2025-11-26,2025-11-23,C022,Maderas del Quindío,Manufactura,Medellín,C. Peña,30,12300000,pagada
+F2025-0546,2025-10-25,2025-12-09,2026-01-12,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,16500000,pagada
+F2025-0547,2025-10-05,2025-11-04,2025-11-10,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,10100000,pagada
+F2025-0548,2025-10-09,2025-11-08,2025-11-07,C039,Eventos y Banquetes Real,Servicios,Barranquilla,J. Mora,30,6200000,pagada
+F2025-0549,2025-10-12,2025-12-11,2025-12-11,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,12600000,pagada
+F2025-0550,2025-10-01,2025-11-15,2025-11-05,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,30000000,pagada
+F2025-0551,2025-10-19,2025-12-03,2025-12-06,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,3600000,pagada
+F2025-0552,2025-10-07,2025-11-06,2025-11-09,C015,Transportes El Rápido,Servicios,Bucaramanga,J. Mora,30,8100000,pagada
+F2025-0553,2025-10-23,2025-11-22,2025-11-22,C039,Eventos y Banquetes Real,Servicios,Barranquilla,C. Peña,30,6600000,pagada
+F2025-0554,2025-10-17,2025-12-01,2025-12-04,C007,Servicios Logísticos Andinos,Servicios,Medellín,J. Mora,45,5700000,pagada
+F2025-0555,2025-10-10,2025-11-09,2025-10-30,C016,Insumos Agrícolas Llanos,Retail,Bogotá,A. Rojas,30,5900000,pagada
+F2025-0556,2025-10-22,2025-11-21,2025-12-31,C009,Obras Civiles del Norte,Construcción,Barranquilla,L. Vargas,30,28100000,pagada
+F2025-0557,2025-10-17,2025-12-01,2025-12-06,C030,Lácteos San Fernando,Manufactura,Bucaramanga,J. Mora,45,14600000,pagada
+F2025-0558,2025-10-23,2025-12-22,2026-01-22,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,13400000,pagada
+F2025-0559,2025-10-28,2025-12-27,2025-12-24,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,L. Vargas,60,11400000,pagada
+F2025-0560,2025-10-16,2025-11-15,2025-11-05,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,15700000,pagada
+F2025-0561,2025-10-28,2025-12-12,2025-12-05,C021,Consultores Empresariales BGA,Servicios,Bogotá,A. Rojas,45,6200000,pagada
+F2025-0562,2025-10-24,2025-12-08,2025-11-29,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,18600000,pagada
+F2025-0563,2025-10-28,2025-12-12,2025-12-13,C004,Ferretería La 80,Retail,Barranquilla,J. Mora,45,11400000,pagada
+F2025-0564,2025-10-27,2025-11-26,2026-01-02,C009,Obras Civiles del Norte,Construcción,Barranquilla,A. Rojas,30,23600000,pagada
+F2025-0565,2025-10-03,2025-11-02,2025-11-08,C038,Química Industrial CB,Manufactura,Cali,J. Mora,30,18200000,pagada
+F2025-0566,2025-10-15,2025-11-14,2025-11-17,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,6000000,pagada
+F2025-0567,2025-10-15,2025-11-14,2025-12-04,C027,Constructora Horizonte,Construcción,Medellín,A. Rojas,30,12100000,pagada
+F2025-0568,2025-10-08,2025-11-07,2025-11-10,C016,Insumos Agrícolas Llanos,Retail,Bogotá,C. Peña,30,2600000,pagada
+F2025-0569,2025-10-15,2025-11-29,2025-11-27,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,15300000,pagada
+F2025-0570,2025-10-09,2025-11-08,2025-11-11,C035,Tecnología Andina,Retail,Bucaramanga,D. Torres,30,7100000,pagada
+F2025-0571,2025-10-06,2025-12-05,2025-12-15,C032,Acabados y Pinturas,Construcción,Medellín,D. Torres,60,17900000,pagada
+F2025-0572,2025-10-19,2025-11-18,2025-11-28,C010,Café y Cosecha,Agroindustria,Bucaramanga,D. Torres,30,11400000,pagada
+F2025-0573,2025-10-10,2025-12-09,2025-12-05,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,J. Mora,60,33200000,pagada
+F2025-0574,2025-10-11,2025-11-25,2025-12-02,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,C. Peña,45,6400000,pagada
+F2025-0575,2025-10-06,2025-11-20,2025-11-12,C020,Droguería Vital,Servicios,Bucaramanga,J. Mora,45,6800000,pagada
+F2025-0576,2025-10-02,2025-11-01,2025-11-13,C038,Química Industrial CB,Manufactura,Cali,L. Vargas,30,8100000,pagada
+F2025-0577,2025-10-07,2025-11-06,2025-11-13,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,11800000,pagada
+F2025-0578,2025-10-27,2025-11-26,2025-11-23,C011,Metalmecánica Bolívar,Manufactura,Bogotá,D. Torres,30,6200000,pagada
+F2025-0579,2025-10-20,2025-12-04,2025-12-21,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,4400000,pagada
+F2025-0580,2025-10-05,2025-11-04,2025-11-04,C028,Papelería Nacional,Retail,Cali,J. Mora,30,10100000,pagada
+F2025-0581,2025-10-05,2025-11-04,2025-11-05,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,21600000,pagada
+F2025-0582,2025-10-26,2025-12-10,2025-12-09,C040,Repuestos El Motor,Retail,Bucaramanga,L. Vargas,45,7800000,pagada
+F2025-0583,2025-10-04,2025-11-03,2025-11-03,C022,Maderas del Quindío,Manufactura,Medellín,L. Vargas,30,5700000,pagada
+F2025-0584,2025-10-01,2025-11-15,2025-11-06,C007,Servicios Logísticos Andinos,Servicios,Medellín,L. Vargas,45,5000000,pagada
+F2025-0585,2025-10-11,2025-12-10,2025-12-22,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,14300000,pagada
+F2025-0586,2025-10-10,2025-11-24,2025-11-29,C004,Ferretería La 80,Retail,Barranquilla,C. Peña,45,10200000,pagada
+F2025-0587,2025-10-06,2025-11-05,2025-12-25,C027,Constructora Horizonte,Construcción,Medellín,C. Peña,30,23600000,pagada
+F2025-0588,2025-10-26,2025-11-25,2025-12-27,C027,Constructora Horizonte,Construcción,Medellín,L. Vargas,30,21100000,pagada
+F2025-0589,2025-10-09,2025-11-08,2025-11-11,C035,Tecnología Andina,Retail,Bucaramanga,J. Mora,30,10500000,pagada
+F2025-0590,2025-10-24,2025-12-23,2026-01-01,C014,Panificadora Central,Manufactura,Barranquilla,A. Rojas,60,14900000,pagada
+F2025-0591,2025-10-22,2025-12-06,2026-01-23,C013,Constructora Cimientos,Construcción,Cali,A. Rojas,45,31300000,pagada
+F2025-0592,2025-10-27,2025-12-26,2026-01-10,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,3800000,pagada
+F2025-0593,2025-10-22,2025-12-06,2025-12-02,C017,Modas Capital,Retail,Medellín,A. Rojas,45,3900000,pagada
+F2025-0594,2025-10-01,2025-11-15,2025-11-13,C020,Droguería Vital,Servicios,Bucaramanga,L. Vargas,45,5700000,pagada
+F2025-0595,2025-10-17,2025-12-01,2025-11-26,C031,Seguridad Total Ltda,Servicios,Bogotá,J. Mora,45,4100000,pagada
+F2025-0596,2025-10-08,2025-11-22,2025-11-28,C031,Seguridad Total Ltda,Servicios,Bogotá,J. Mora,45,7700000,pagada
+F2025-0597,2025-10-13,2025-12-12,2025-12-18,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,15300000,pagada
+F2025-0598,2025-10-12,2025-12-11,2025-12-13,C012,Comercial Santa Fe,Retail,Medellín,L. Vargas,60,8700000,pagada
+F2025-0599,2025-10-26,2025-12-10,2025-12-16,C021,Consultores Empresariales BGA,Servicios,Bogotá,J. Mora,45,9200000,pagada
+F2025-0600,2025-10-15,2025-12-14,2025-12-16,C014,Panificadora Central,Manufactura,Barranquilla,C. Peña,60,9700000,pagada
+F2025-0601,2025-10-15,2025-11-14,2026-01-17,C002,Constructora Monserrate,Construcción,Medellín,J. Mora,30,24000000,pagada
+F2025-0602,2025-10-16,2025-11-15,2025-11-26,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,16900000,pagada
+F2025-0603,2025-10-08,2025-11-22,2025-11-21,C030,Lácteos San Fernando,Manufactura,Bucaramanga,D. Torres,45,40100000,pagada
+F2025-0604,2025-10-28,2025-12-12,2025-12-11,C021,Consultores Empresariales BGA,Servicios,Bogotá,L. Vargas,45,4500000,pagada
+F2025-0605,2025-10-15,2025-11-29,2026-01-09,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,32200000,pagada
+F2025-0606,2025-10-17,2025-11-16,2025-11-16,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,13400000,pagada
+F2025-0607,2025-10-04,2025-11-03,2025-12-02,C002,Constructora Monserrate,Construcción,Medellín,C. Peña,30,26300000,pagada
+F2025-0608,2025-10-02,2025-11-01,2025-11-11,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,14400000,pagada
+F2025-0609,2025-10-02,2025-11-01,2025-11-02,C033,Granos del Tolima,Agroindustria,Cali,A. Rojas,30,10600000,pagada
+F2025-0610,2025-11-16,2025-12-16,2026-01-11,C027,Constructora Horizonte,Construcción,Medellín,D. Torres,30,30500000,pagada
+F2025-0611,2025-11-11,2025-12-11,2025-12-14,C016,Insumos Agrícolas Llanos,Retail,Bogotá,A. Rojas,30,8600000,pagada
+F2025-0612,2025-11-06,2025-12-06,2025-12-08,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,C. Peña,30,9200000,pagada
+F2025-0613,2025-11-11,2025-12-11,2025-12-09,C016,Insumos Agrícolas Llanos,Retail,Bogotá,L. Vargas,30,5900000,pagada
+F2025-0614,2025-11-22,2025-12-22,2025-12-29,C038,Química Industrial CB,Manufactura,Cali,C. Peña,30,14600000,pagada
+F2025-0615,2025-11-28,2025-12-28,2025-12-26,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,12300000,pagada
+F2025-0616,2025-11-23,2025-12-23,2026-01-24,C036,Construred,Construcción,Bogotá,L. Vargas,30,29000000,pagada
+F2025-0617,2025-11-20,2025-12-20,2026-01-02,C011,Metalmecánica Bolívar,Manufactura,Bogotá,A. Rojas,30,21800000,pagada
+F2025-0618,2025-11-03,2025-12-18,2025-12-20,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,5800000,pagada
+F2025-0619,2025-11-22,2025-12-22,2025-12-19,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,13400000,pagada
+F2025-0620,2025-11-25,2026-01-09,,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,22900000,vencida
+F2025-0621,2025-11-22,2025-12-22,2025-12-15,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,A. Rojas,30,7000000,pagada
+F2025-0622,2025-11-02,2026-01-01,2026-01-08,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,15000000,pagada
+F2025-0623,2025-11-25,2026-01-24,2026-01-30,C014,Panificadora Central,Manufactura,Barranquilla,A. Rojas,60,15900000,pagada
+F2025-0624,2025-11-06,2025-12-06,2025-12-22,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,4800000,pagada
+F2025-0625,2025-11-06,2025-12-21,2025-12-22,C020,Droguería Vital,Servicios,Bucaramanga,J. Mora,45,4100000,pagada
+F2025-0626,2025-11-22,2025-12-22,2025-12-22,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,14700000,pagada
+F2025-0627,2025-11-28,2026-01-27,,C019,Plásticos del Pacífico,Manufactura,Barranquilla,C. Peña,60,9700000,vencida
+F2025-0628,2025-11-09,2025-12-24,2025-12-21,C007,Servicios Logísticos Andinos,Servicios,Medellín,A. Rojas,45,8100000,pagada
+F2025-0629,2025-11-21,2025-12-21,2025-12-22,C029,Autopartes La 30,Retail,Barranquilla,L. Vargas,30,6100000,pagada
+F2025-0630,2025-11-21,2025-12-21,2025-12-22,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,C. Peña,30,6300000,pagada
+F2025-0631,2025-11-14,2025-12-14,2025-12-25,C029,Autopartes La 30,Retail,Barranquilla,A. Rojas,30,2900000,pagada
+F2025-0632,2025-11-10,2025-12-25,2025-12-29,C040,Repuestos El Motor,Retail,Bucaramanga,C. Peña,45,9900000,pagada
+F2025-0633,2025-11-17,2026-01-01,2025-12-22,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,8300000,pagada
+F2025-0634,2025-11-03,2026-01-02,,C019,Plásticos del Pacífico,Manufactura,Barranquilla,J. Mora,60,14900000,vencida
+F2025-0635,2025-11-10,2025-12-25,,C013,Constructora Cimientos,Construcción,Cali,A. Rojas,45,31400000,vencida
+F2025-0636,2025-11-22,2025-12-22,2025-12-20,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,3700000,pagada
+F2025-0637,2025-11-01,2025-12-01,2025-12-08,C011,Metalmecánica Bolívar,Manufactura,Bogotá,J. Mora,30,8600000,pagada
+F2025-0638,2025-11-03,2025-12-18,2025-12-08,C020,Droguería Vital,Servicios,Bucaramanga,C. Peña,45,6900000,pagada
+F2025-0639,2025-11-06,2025-12-21,2025-12-19,C031,Seguridad Total Ltda,Servicios,Bogotá,D. Torres,45,15200000,pagada
+F2025-0640,2025-11-14,2025-12-14,2025-12-16,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,24400000,pagada
+F2025-0641,2025-11-24,2025-12-24,2025-12-30,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,15900000,pagada
+F2025-0642,2025-11-20,2026-01-04,2026-01-26,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,11600000,pagada
+F2025-0643,2025-11-16,2025-12-16,2026-01-28,C036,Construred,Construcción,Bogotá,J. Mora,30,10800000,pagada
+F2025-0644,2025-11-02,2025-12-02,2025-12-01,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,A. Rojas,30,17200000,pagada
+F2025-0645,2025-11-21,2026-01-20,,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,J. Mora,60,21300000,vencida
+F2025-0646,2025-11-24,2025-12-24,2025-12-24,C038,Química Industrial CB,Manufactura,Cali,L. Vargas,30,11100000,pagada
+F2025-0647,2025-11-02,2025-12-02,2025-12-06,C027,Constructora Horizonte,Construcción,Medellín,D. Torres,30,14700000,pagada
+F2025-0648,2025-11-16,2025-12-16,2025-12-14,C038,Química Industrial CB,Manufactura,Cali,L. Vargas,30,16500000,pagada
+F2025-0649,2025-11-14,2026-01-13,2026-01-26,C014,Panificadora Central,Manufactura,Barranquilla,D. Torres,60,14100000,pagada
+F2025-0650,2025-11-05,2025-12-20,2026-01-30,C013,Constructora Cimientos,Construcción,Cali,C. Peña,45,31900000,pagada
+F2025-0651,2025-11-14,2026-01-13,2026-01-19,C014,Panificadora Central,Manufactura,Barranquilla,L. Vargas,60,14400000,pagada
+F2025-0652,2025-11-20,2025-12-20,2025-12-25,C015,Transportes El Rápido,Servicios,Bucaramanga,A. Rojas,30,5700000,pagada
+F2025-0653,2025-11-11,2025-12-11,2025-12-16,C028,Papelería Nacional,Retail,Cali,D. Torres,30,7500000,pagada
+F2025-0654,2025-11-10,2026-01-09,,C019,Plásticos del Pacífico,Manufactura,Barranquilla,L. Vargas,60,23400000,vencida
+F2025-0655,2025-11-11,2025-12-26,2025-12-16,C030,Lácteos San Fernando,Manufactura,Bucaramanga,C. Peña,45,17700000,pagada
+F2025-0656,2025-11-17,2026-01-01,2026-01-11,C017,Modas Capital,Retail,Medellín,L. Vargas,45,9200000,pagada
+F2025-0657,2025-11-24,2026-01-08,,C013,Constructora Cimientos,Construcción,Cali,D. Torres,45,10900000,vencida
+F2025-0658,2025-11-01,2025-12-16,2025-12-18,C008,Supermercados La Economía,Retail,Cali,A. Rojas,45,6800000,pagada
+F2025-0659,2025-11-28,2026-01-27,,C023,Electrodomésticos La Rebaja,Retail,Cali,A. Rojas,60,12400000,vencida
+F2025-0660,2025-11-03,2025-12-03,2026-01-07,C036,Construred,Construcción,Bogotá,L. Vargas,30,42800000,pagada
+F2025-0661,2025-11-11,2025-12-11,2025-12-20,C035,Tecnología Andina,Retail,Bucaramanga,A. Rojas,30,7800000,pagada
+F2025-0662,2025-11-28,2025-12-28,2025-12-24,C011,Metalmecánica Bolívar,Manufactura,Bogotá,D. Torres,30,12900000,pagada
+F2025-0663,2025-11-04,2025-12-19,2025-12-26,C020,Droguería Vital,Servicios,Bucaramanga,C. Peña,45,9100000,pagada
+F2025-0664,2025-11-23,2025-12-23,2025-12-26,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,8400000,pagada
+F2025-0665,2025-11-23,2026-01-07,2026-01-10,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,J. Mora,45,3700000,pagada
+F2025-0666,2025-11-09,2026-01-08,2026-01-24,C003,Distribuciones Caribe,Retail,Cali,D. Torres,60,14600000,pagada
+F2025-0667,2025-11-20,2026-01-19,2026-01-18,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,8900000,pagada
+F2025-0668,2025-11-16,2025-12-16,,C002,Constructora Monserrate,Construcción,Medellín,C. Peña,30,68700000,vencida
+F2025-0669,2025-11-07,2025-12-07,2025-12-02,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,8400000,pagada
+F2025-0670,2025-11-27,2025-12-27,2026-01-31,C027,Constructora Horizonte,Construcción,Medellín,J. Mora,30,13400000,pagada
+F2025-0671,2025-11-22,2025-12-22,2025-12-21,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,L. Vargas,30,20500000,pagada
+F2025-0672,2025-11-21,2026-01-20,2026-01-16,C014,Panificadora Central,Manufactura,Barranquilla,L. Vargas,60,17600000,pagada
+F2025-0673,2025-11-18,2026-01-17,2026-01-17,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,L. Vargas,60,13500000,pagada
+F2025-0674,2025-11-21,2025-12-21,2026-01-21,C027,Constructora Horizonte,Construcción,Medellín,L. Vargas,30,11000000,pagada
+F2025-0675,2025-11-20,2025-12-20,2025-12-10,C018,Ingeniería y Concreto,Construcción,Cali,A. Rojas,30,16700000,pagada
+F2025-0676,2025-11-19,2026-01-03,2026-01-04,C004,Ferretería La 80,Retail,Barranquilla,C. Peña,45,14100000,pagada
+F2025-0677,2025-11-28,2026-01-27,2026-01-17,C032,Acabados y Pinturas,Construcción,Medellín,J. Mora,60,30200000,pagada
+F2025-0678,2025-11-16,2025-12-16,2025-12-08,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,9400000,pagada
+F2025-0679,2025-11-02,2025-12-02,2026-01-01,C036,Construred,Construcción,Bogotá,J. Mora,30,20300000,pagada
+F2025-0680,2025-11-17,2026-01-01,2026-01-11,C030,Lácteos San Fernando,Manufactura,Bucaramanga,A. Rojas,45,11500000,pagada
+F2025-0681,2025-11-18,2026-01-02,2025-12-28,C017,Modas Capital,Retail,Medellín,J. Mora,45,6200000,pagada
+F2025-0682,2025-11-03,2025-12-03,2026-01-05,C036,Construred,Construcción,Bogotá,L. Vargas,30,25100000,pagada
+F2025-0683,2025-11-25,2026-01-09,2026-01-03,C020,Droguería Vital,Servicios,Bucaramanga,C. Peña,45,5100000,pagada
+F2025-0684,2025-11-17,2026-01-16,2026-01-06,C006,Textiles Antioquia,Manufactura,Bogotá,L. Vargas,60,6500000,pagada
+F2025-0685,2025-11-24,2025-12-24,2025-12-20,C035,Tecnología Andina,Retail,Bucaramanga,C. Peña,30,15700000,pagada
+F2025-0686,2025-11-10,2025-12-25,2026-01-04,C013,Constructora Cimientos,Construcción,Cali,A. Rojas,45,29000000,pagada
+F2025-0687,2025-11-21,2025-12-21,2026-01-05,C038,Química Industrial CB,Manufactura,Cali,C. Peña,30,12300000,pagada
+F2025-0688,2025-11-02,2025-12-02,2025-12-14,C015,Transportes El Rápido,Servicios,Bucaramanga,A. Rojas,30,6800000,pagada
+F2025-0689,2025-11-11,2025-12-11,2025-12-12,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,6600000,pagada
+F2025-0690,2025-12-26,2026-01-25,2026-01-29,C010,Café y Cosecha,Agroindustria,Bucaramanga,A. Rojas,30,8200000,pagada
+F2025-0691,2025-12-26,2026-01-25,2026-01-27,C038,Química Industrial CB,Manufactura,Cali,D. Torres,30,9300000,pagada
+F2025-0692,2025-12-18,2026-01-17,2026-01-25,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,D. Torres,30,11000000,pagada
+F2025-0693,2025-12-01,2025-12-31,2025-12-26,C010,Café y Cosecha,Agroindustria,Bucaramanga,A. Rojas,30,22600000,pagada
+F2025-0694,2025-12-22,2026-02-20,,C014,Panificadora Central,Manufactura,Barranquilla,L. Vargas,60,13800000,vigente
+F2025-0695,2025-12-15,2026-01-14,,C002,Constructora Monserrate,Construcción,Medellín,D. Torres,30,23100000,vencida
+F2025-0696,2025-12-10,2026-01-09,2026-01-18,C033,Granos del Tolima,Agroindustria,Cali,D. Torres,30,10000000,pagada
+F2025-0697,2025-12-05,2026-01-04,2025-12-31,C035,Tecnología Andina,Retail,Bucaramanga,D. Torres,30,12000000,pagada
+F2025-0698,2025-12-16,2026-01-15,2026-01-15,C016,Insumos Agrícolas Llanos,Retail,Bogotá,J. Mora,30,23000000,pagada
+F2025-0699,2025-12-27,2026-01-26,,C034,Muebles Modernos,Manufactura,Barranquilla,L. Vargas,30,10900000,vencida
+F2025-0700,2025-12-01,2026-01-15,2026-01-26,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,7300000,pagada
+F2025-0701,2025-12-01,2025-12-31,2026-01-10,C033,Granos del Tolima,Agroindustria,Cali,A. Rojas,30,17300000,pagada
+F2025-0702,2025-12-21,2026-01-20,2026-01-30,C033,Granos del Tolima,Agroindustria,Cali,C. Peña,30,11800000,pagada
+F2025-0703,2025-12-12,2026-02-10,,C023,Electrodomésticos La Rebaja,Retail,Cali,D. Torres,60,6500000,vigente
+F2025-0704,2025-12-19,2026-01-18,2026-01-21,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,J. Mora,30,14400000,pagada
+F2025-0705,2025-12-16,2026-01-15,2026-01-29,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,14100000,pagada
+F2025-0706,2025-12-16,2026-01-30,2026-01-30,C025,Frutas Exóticas Export,Agroindustria,Bucaramanga,L. Vargas,45,4600000,pagada
+F2025-0707,2025-12-25,2026-01-24,2026-01-14,C037,Alimentos La Espiga,Manufactura,Medellín,C. Peña,30,12700000,pagada
+F2025-0708,2025-12-03,2026-01-02,2026-01-03,C039,Eventos y Banquetes Real,Servicios,Barranquilla,J. Mora,30,8800000,pagada
+F2025-0709,2025-12-13,2026-01-27,2026-01-25,C008,Supermercados La Economía,Retail,Cali,C. Peña,45,13800000,pagada
+F2025-0710,2025-12-13,2026-01-27,2026-01-31,C017,Modas Capital,Retail,Medellín,J. Mora,45,10800000,pagada
+F2025-0711,2025-12-26,2026-02-09,,C008,Supermercados La Economía,Retail,Cali,J. Mora,45,7900000,vigente
+F2025-0712,2025-12-26,2026-02-24,,C003,Distribuciones Caribe,Retail,Cali,L. Vargas,60,4100000,vigente
+F2025-0713,2025-12-27,2026-01-26,2026-01-31,C039,Eventos y Banquetes Real,Servicios,Barranquilla,L. Vargas,30,8100000,pagada
+F2025-0714,2025-12-19,2026-01-18,2026-01-19,C037,Alimentos La Espiga,Manufactura,Medellín,D. Torres,30,20000000,pagada
+F2025-0715,2025-12-01,2025-12-31,2026-01-20,C038,Química Industrial CB,Manufactura,Cali,L. Vargas,30,12200000,pagada
+F2025-0716,2025-12-07,2026-01-06,2026-01-23,C036,Construred,Construcción,Bogotá,C. Peña,30,27500000,pagada
+F2025-0717,2025-12-25,2026-01-24,2026-01-14,C026,Calzado Bucaramanga,Manufactura,Bogotá,C. Peña,30,11500000,pagada
+F2025-0718,2025-12-22,2026-02-05,2026-01-26,C021,Consultores Empresariales BGA,Servicios,Bogotá,C. Peña,45,5500000,pagada
+F2025-0719,2025-12-06,2026-01-20,,C040,Repuestos El Motor,Retail,Bucaramanga,L. Vargas,45,16200000,vencida
+F2025-0720,2025-12-26,2026-02-24,,C023,Electrodomésticos La Rebaja,Retail,Cali,C. Peña,60,8700000,vigente
+F2025-0721,2025-12-07,2026-01-06,2025-12-31,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,23300000,pagada
+F2025-0722,2025-12-12,2026-01-11,2026-01-27,C009,Obras Civiles del Norte,Construcción,Barranquilla,A. Rojas,30,26800000,pagada
+F2025-0723,2025-12-09,2026-01-23,2026-01-30,C030,Lácteos San Fernando,Manufactura,Bucaramanga,D. Torres,45,38900000,pagada
+F2025-0724,2025-12-14,2026-01-13,2026-01-14,C033,Granos del Tolima,Agroindustria,Cali,J. Mora,30,10900000,pagada
+F2025-0725,2025-12-15,2026-01-14,2026-01-08,C028,Papelería Nacional,Retail,Cali,J. Mora,30,5900000,pagada
+F2025-0726,2025-12-06,2026-01-20,2026-01-14,C020,Droguería Vital,Servicios,Bucaramanga,J. Mora,45,12100000,pagada
+F2025-0727,2025-12-21,2026-02-04,,C008,Supermercados La Economía,Retail,Cali,C. Peña,45,8200000,vigente
+F2025-0728,2025-12-25,2026-01-24,,C002,Constructora Monserrate,Construcción,Medellín,C. Peña,30,34400000,vencida
+F2025-0729,2025-12-21,2026-01-20,2026-01-27,C026,Calzado Bucaramanga,Manufactura,Bogotá,A. Rojas,30,16100000,pagada
+F2025-0730,2025-12-24,2026-01-23,2026-01-29,C028,Papelería Nacional,Retail,Cali,C. Peña,30,22500000,pagada
+F2025-0731,2025-12-23,2026-02-06,,C031,Seguridad Total Ltda,Servicios,Bogotá,L. Vargas,45,3200000,vigente
+F2025-0732,2025-12-26,2026-01-25,2026-01-15,C039,Eventos y Banquetes Real,Servicios,Barranquilla,D. Torres,30,7400000,pagada
+F2025-0733,2025-12-03,2026-01-17,2026-01-31,C020,Droguería Vital,Servicios,Bucaramanga,J. Mora,45,5100000,pagada
+F2025-0734,2025-12-12,2026-01-11,2026-01-23,C034,Muebles Modernos,Manufactura,Barranquilla,A. Rojas,30,15400000,pagada
+F2025-0735,2025-12-14,2026-01-13,2026-01-13,C029,Autopartes La 30,Retail,Barranquilla,J. Mora,30,5400000,pagada
+F2025-0736,2025-12-02,2026-01-31,2026-01-21,C012,Comercial Santa Fe,Retail,Medellín,C. Peña,60,4700000,pagada
+F2025-0737,2025-12-18,2026-01-17,2026-01-16,C034,Muebles Modernos,Manufactura,Barranquilla,D. Torres,30,10700000,pagada
+F2025-0738,2025-12-14,2026-02-12,,C003,Distribuciones Caribe,Retail,Cali,A. Rojas,60,6300000,vigente
+F2025-0739,2025-12-14,2026-02-12,,C024,Vidrios y Aluminios Cali,Manufactura,Barranquilla,A. Rojas,60,9900000,vigente
+F2025-0740,2025-12-10,2026-01-09,2026-01-24,C038,Química Industrial CB,Manufactura,Cali,C. Peña,30,10300000,pagada
+F2025-0741,2025-12-05,2026-01-04,,C027,Constructora Horizonte,Construcción,Medellín,J. Mora,30,17200000,vencida
+F2025-0742,2025-12-21,2026-01-20,2026-01-15,C038,Química Industrial CB,Manufactura,Cali,A. Rojas,30,27100000,pagada
+F2025-0743,2025-12-08,2026-02-06,2026-01-31,C003,Distribuciones Caribe,Retail,Cali,C. Peña,60,8900000,pagada
+F2025-0744,2025-12-11,2026-01-10,2026-01-22,C022,Maderas del Quindío,Manufactura,Medellín,D. Torres,30,14000000,pagada
+F2025-0745,2025-12-25,2026-02-23,,C032,Acabados y Pinturas,Construcción,Medellín,D. Torres,60,30000000,vigente
+F2025-0746,2025-12-01,2025-12-31,2026-01-07,C026,Calzado Bucaramanga,Manufactura,Bogotá,L. Vargas,30,12700000,pagada
+F2025-0747,2025-12-20,2026-01-19,,C036,Construred,Construcción,Bogotá,J. Mora,30,28700000,vencida
+F2025-0748,2025-12-23,2026-02-21,,C019,Plásticos del Pacífico,Manufactura,Barranquilla,D. Torres,60,9100000,vigente
+F2025-0749,2025-12-25,2026-01-24,2026-01-22,C028,Papelería Nacional,Retail,Cali,D. Torres,30,17800000,pagada
+F2025-0750,2025-12-18,2026-02-01,2026-01-25,C017,Modas Capital,Retail,Medellín,C. Peña,45,24900000,pagada
+F2025-0751,2025-12-07,2026-01-06,2026-01-19,C035,Tecnología Andina,Retail,Bucaramanga,L. Vargas,30,9100000,pagada
+F2025-0752,2025-12-07,2026-01-06,2026-01-03,C005,Agroinsumos del Valle,Agroindustria,Bucaramanga,D. Torres,30,9900000,pagada
+F2025-0753,2025-12-01,2025-12-31,2025-12-31,C011,Metalmecánica Bolívar,Manufactura,Bogotá,L. Vargas,30,9100000,pagada
+F2025-0754,2025-12-23,2026-02-06,,C004,Ferretería La 80,Retail,Barranquilla,D. Torres,45,5400000,vigente
+F2025-0755,2025-12-05,2026-01-04,2026-01-03,C029,Autopartes La 30,Retail,Barranquilla,C. Peña,30,4500000,pagada
+F2025-0756,2025-12-04,2026-01-03,2026-01-03,C010,Café y Cosecha,Agroindustria,Bucaramanga,L. Vargas,30,8400000,pagada
+F2025-0757,2025-12-01,2026-01-15,,C013,Constructora Cimientos,Construcción,Cali,A. Rojas,45,16400000,vencida
+F2025-0758,2025-12-10,2026-01-09,2026-01-15,C034,Muebles Modernos,Manufactura,Barranquilla,J. Mora,30,11400000,pagada
+F2025-0759,2025-12-06,2026-01-05,2026-01-21,C015,Transportes El Rápido,Servicios,Bucaramanga,A. Rojas,30,7700000,pagada
+F2025-0760,2025-12-17,2026-02-15,,C006,Textiles Antioquia,Manufactura,Bogotá,D. Torres,60,6300000,vigente
+F2025-0761,2025-12-05,2026-01-19,2026-01-29,C001,Almacenes El Dorado,Retail,Bogotá,D. Torres,45,7700000,pagada
+F2025-0762,2025-12-22,2026-01-21,2026-01-24,C010,Café y Cosecha,Agroindustria,Bucaramanga,J. Mora,30,5100000,pagada
+F2025-0763,2025-12-14,2026-01-13,2026-01-26,C037,Alimentos La Espiga,Manufactura,Medellín,A. Rojas,30,12600000,pagada
+F2025-0764,2025-12-21,2026-01-20,2026-01-13,C022,Maderas del Quindío,Manufactura,Medellín,D. Torres,30,7900000,pagada
+F2025-0765,2025-12-25,2026-02-08,,C040,Repuestos El Motor,Retail,Bucaramanga,D. Torres,45,7200000,vigente
+F2025-0766,2025-12-20,2026-01-19,,C009,Obras Civiles del Norte,Construcción,Barranquilla,D. Torres,30,27500000,vencida
+F2025-0767,2025-12-19,2026-01-18,2026-01-27,C015,Transportes El Rápido,Servicios,Bucaramanga,D. Torres,30,4400000,pagada
+F2025-0768,2025-12-09,2026-01-23,,C007,Servicios Logísticos Andinos,Servicios,Medellín,D. Torres,45,9500000,vencida
+F2025-0769,2025-12-13,2026-01-12,2026-01-17,C016,Insumos Agrícolas Llanos,Retail,Bogotá,L. Vargas,30,7900000,pagada
+F2025-0770,2025-12-28,2026-02-26,,C023,Electrodomésticos La Rebaja,Retail,Cali,C. Peña,60,9700000,vigente
+F2025-0771,2025-12-25,2026-01-24,2026-01-25,C033,Granos del Tolima,Agroindustria,Cali,J. Mora,30,13700000,pagada
+F2025-0772,2025-12-10,2026-01-09,2026-01-11,C015,Transportes El Rápido,Servicios,Bucaramanga,A. Rojas,30,6100000,pagada
+F2025-0773,2025-12-08,2026-01-22,,C031,Seguridad Total Ltda,Servicios,Bogotá,J. Mora,45,7000000,vencida
+F2025-0774,2025-12-03,2026-01-02,2026-01-15,C026,Calzado Bucaramanga,Manufactura,Bogotá,C. Peña,30,15200000,pagada
+F2025-0775,2025-12-07,2026-02-05,,C012,Comercial Santa Fe,Retail,Medellín,J. Mora,60,9200000,vigente
